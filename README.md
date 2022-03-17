@@ -5,6 +5,23 @@
 
 ## Description
 
+This repository provides 
+
+This includes:
+
+- Initial setup from SAP Task Center Service on BTP
+- SAP Task Center Integration with SAP Success Factors
+- SAP Task Center Integration with SAP S/4HANA Cloud Edition
+- SAP Task Center Integration with SAP S/4HANA On Premise
+- SAP Task Center Integration with SAP Concur
+- SAP Task Center Integration with SAP Fieldglass
+- SAP Task Center Integration with SAP Ariba
+
+
+BTP Solution Diagram
+
+<img src="docs/pics/sap_btp_taskcenter_solution_diagram.png" width="500">
+
 ## Requirements
 
 ## Download and Installation

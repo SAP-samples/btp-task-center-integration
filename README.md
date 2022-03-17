@@ -20,7 +20,7 @@ This includes:
 
 BTP Solution Diagram
 
-<img src="docs/pics/sap_btp_taskcenter_solution_diagram.png" width="800">
+<img src="docs/pics/sap_btp_taskcenter_solution_diagram.png" width="750">
 
 ## Requirements
 

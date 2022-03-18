@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 SAP Task Center supports the user universal unique identifier (UUID) to ensure the identification of the end user in each connected system, for example, SAP S/4HANA with a unique identifier.
 
@@ -15,10 +15,10 @@ Choose one of the following options:
 - [Automatic trust setup](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/b9f4b0dc967040c99c7c8268ce335cce.html?q=establish%20trust) (described below)
 - [Manual trust setup](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/36214a93a8864662996a0d0814f3e1b7.html?q=establish%20trust%3Fq%3Destablish%20trust)
 
-##Automatic trust setup
+## Automatic trust setup
 
 In your subaccount, you can establish automatic trust that is set up with the following steps:
 
 1. From the navigation menu, choose Security > Trust Configuration.
 
-<img src="pics/establish_trust_cockpit.png" width="300">
+<img src="pics/establish_trust_cockpit.png" width="500">

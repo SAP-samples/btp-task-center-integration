@@ -2,7 +2,7 @@
 
 SAP Task Center supports the user universal unique identifier (UUID) to ensure the identification of the end user in each connected system, for example, SAP S/4HANA with a unique identifier.
 
-To support this, you are required to use the user universal unique identifier(UUID) of the [Identity Authentication service](https://help.sap.com/products/IDENTITY_AUTHENTICATION?version=Cloud) as the federation identifier.
+To support this, you are **required** to use the user universal unique identifier(UUID) of the [Identity Authentication service](https://help.sap.com/products/IDENTITY_AUTHENTICATION?version=Cloud) as the federation identifier.
 
 For more information, see Identity Lifecycle: SAP Reference Architecture for Identity Access Management – Part 2.
 
@@ -19,6 +19,32 @@ Choose one of the following options:
 
 In your subaccount, you can establish automatic trust that is set up with the following steps:
 
-1. From the navigation menu, choose Security > Trust Configuration.
+1. From the navigation menu, choose **Security > Trust Configuration**.
 
 <img src="pics/establish_trust_cockpit.png" width="500">
+
+2. Choose **Establish Trust**, and select the Identity Authentication tenant that you want to connect with your subaccount.
+
+Info: Only tenants that belong to your customer ID are shown.
+
+As result, the Identity Authentication tenant is displayed as custom entry and you can use it in your subaccount.
+
+<img src="pics/trustconfig.png" width="500">
+
+3. (Optional) Enter the Identity Authentication using the following URL:
+
+https://<Identity_Authentication_tenant>.accounts.ondemand.com/admin
+
+In the Identity Authentication service, navigate to **Applications & Resources**.
+
+<img src="pics/appandresource.png" width="500">
+
+Identity Authentication:
+
+<img src="pics/ias_app_xsuaa.png" width="500">
+
+SAP BTP cockpit:
+
+<img src="pics/btp_subdomain.png" width="500">
+
+**Congratulations!** With this step you have finalized the setup of the trust configuration.

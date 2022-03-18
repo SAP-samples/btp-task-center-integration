@@ -2,7 +2,9 @@
 
 This repository contains conten for the cards which are used in the SAP Discovery Center project board.
 
-**Important: Please use for each card a seperate markdown file**
+**Important: Please use for each card a seperate markdown file. The filename must be in lowercase like this:**
+
+`trust-setup-with-btp.md`
 
 Some useful links:
 

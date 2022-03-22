@@ -1,4 +1,4 @@
-#S/4HANA OnPrem
+## S/4HANA OnPrem
 
 ## How to use
 

@@ -1,4 +1,4 @@
-1. Access your BTP Subaccount. 
+1. Access your BTP Subaccount.
 2. Under **Destinations**, select **S4HANACloud** destination that is created when you run the booster to setup Task Center.
 <img alt="destinationsetup31" src="31.png"/>
 3. Edit the pre-created destination and update the properties below.

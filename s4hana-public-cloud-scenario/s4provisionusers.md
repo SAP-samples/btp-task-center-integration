@@ -74,7 +74,7 @@ To populate the Global User ID field in S/4HANA Cloud user profile we need to us
     * __Password__: Password for communication user
   
 ### Run the source provisioning job
-1. Switch to **Source Systems*8. 
+1. Switch to **Source Systems**. 
 2. Select your source job and click **Jobs** icon. 
 3. Click **Run Now** icon to start the **Read** Job.
 4. Under **Job Logs** monitor the status until you see a **Success** status.  You will need to navigate away and come back to this page to see the updated status.

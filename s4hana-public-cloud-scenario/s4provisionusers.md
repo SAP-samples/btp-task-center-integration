@@ -14,7 +14,7 @@ To populate the Global User ID field in S/4HANA Cloud user profile we need to us
 
 ### Create a Communication System in SAP S/4HANA Cloud
 
-1. Log into your SAP S/4HANA Cloud system and access Maintain Communication Users.
+1. Log into SAP S/4HANA Cloud system and access Maintain Communication Users.
 2. Click New and create a new communication user.
 3. Specify a User Name, Description, and Password.
 4. Click Create.
@@ -40,28 +40,39 @@ To populate the Global User ID field in S/4HANA Cloud user profile we need to us
    * Manage Tenant Configuration
 For Set Password section, click Not Configured.
 4. Specify a password for your user and click Save. After saving, you will redirected back to the previous screen. Navigate back to the password screen and copy the User ID using the Copy icon. We need this User ID and the password later when setting up SAP Cloud Identity Authentication Service as a source system in SAP Cloud Identity Provisioning Service.
-5. Access your SAP Cloud Identity Services – Identity Provisioning (IPS) tenant.
+5. Access SAP Cloud Identity Provisioning (IPS) tenant.
 6. Click on Source Systems.
 7. Click Add.
 8. Specify the following and click Save:
    * Type: Identity Authentication
-   * System Name: name of your choice
+   * System Name: Name of your choice
 9. Click Properties. You will see a list of pre-created properties.
 10. Click Add to add new properties. Use the Standard option for non-sensitive properties and Credential option for password fields.
-11. Add the additional properties below and click Save. Take a look at the help guide for the complete list of properties that are possible with Identity Authentication as a target system.
+11. Add the additional properties below and click Save.
     * Type: HTTP
     * ProxyType: Internet
-    * URL: SAP Cloud Identity Service tenant URL
+    * URL: SAP Cloud Identity Authentication Service tenant URL
     * Authentication: BasicAuthentication
-    * User: System user created in step 3 earlier
+    * User: System user created in step 3
     * Password: Password for the system user
 
-Screenshot below shows the setup of my source job setup in IPS. Notice that I’ve also added some additional properties to filter the user and group that is read from IAS. It’s good idea to test the provisioning job with couple users and groups before you remove the filter and run the job for all users and groups. For the purpose of this blog, I am just going to provision the “DEMO” user and “BR_DEMO” group.
-
-Setup SAP S/4HANA Cloud as a target system in IPS
-
-Access your SAP Cloud Identity Services – Identity Provisioning (IPS) tenant. Click the Target System icon and click Add. Specify the following and click Save: Type: SAP S/4HANA Cloud System Name: Source System: Under Properties, add the additional properties below and click Save. Take a look at the help guide for the complete list of properties that are possible with S/4HANA Cloud as a target system. Type: HTTP ProxyType: Internet URL: <S4/HANA Cloud URL> Authentication: BasicAuthentication User: <Communication User created in S/4 system earlier>. Password: The screenshot below shows the setup of my target system in IPS.
-
+###Setup SAP S/4HANA Cloud as a target system in SAP Cloud Identity Provisioning Service(IPS)
+1. Access SAP Cloud Identity Provisioning (IPS) tenant.
+2. Click the Target System icon and click Add.
+3. Specify the following and click Save:
+   * Type: SAP S/4HANA Cloud
+   * System Name: Name of your choice
+   * Source System: Identity Authentication source system created earlier
+ 4. Click Properties. You will see a list of pre-created properties.
+10. Click Add to add new properties. Use the Standard option for non-sensitive properties and Credential option for password fields.
+11. Add the additional properties below and click Save.
+    * Type: HTTP
+    * ProxyType: Internet
+    * URL: S4/HANA Cloud URL
+    * Authentication: BasicAuthentication
+    * User: Communication User created in S/4 system earlier
+    * Password: S4/HANA Cloud URL
+  
 Run the source provisioning job
 
 Switch to Source Systems. Select your source job and click Jobs icon. Click Run Now icon to start the Read Job. Monitor the status of your job under the Job Logs until you see a Success or Failure status. You will need to navigate away and come back to this page to see the updated status. View the details of the job execution. In my case 1 users and 1 group is created successfully. Once the provisioning job is successfully executed, the demo user in S/4 system has the Global User ID and Business Role assigned.

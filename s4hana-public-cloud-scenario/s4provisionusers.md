@@ -32,7 +32,31 @@ To populate the Global User ID field in S/4HANA Cloud user profile we need to us
 
 ### Setup SAP Cloud Identity Authentication Service(IAS) as a source system in SAP Cloud Identity Provisioning Service(IPS)
 
-Access your IAS Administration Console. Under Administrators, click Add >> System. Specify a name for your user and ensure the following authorizations are enabled: Manage Users Manage Groups Manage Tenant Configuration For Set Password section, click Not Configured. Specify a password for your user and click Save. After saving, you will redirected back to the previous screen. Navigate back to the password screen and copy the User ID using the Copy icon. We need this User ID and the password later when setting up IAS as a source system in IPS. Access your SAP Cloud Identity Services – Identity Provisioning (IPS) tenant. Click on Source Systems. Click Add. Specify the following and click Save: Type: Identity Authentication System Name: Click Properties. You will see a list of pre-created properties. Click Add to add new properties. Use the Standard option for non-sensitive properties and Credential option for password fields. Add the additional properties below and click Save. Take a look at the help guide for the complete list of properties that are possible with Identity Authentication as a target system. Type: HTTP ProxyType: Internet URL: Authentication: BasicAuthentication User: Password: Screenshot below shows the setup of my source job setup in IPS. Notice that I’ve also added some additional properties to filter the user and group that is read from IAS. It’s good idea to test the provisioning job with couple users and groups before you remove the filter and run the job for all users and groups. For the purpose of this blog, I am just going to provision the “DEMO” user and “BR_DEMO” group.
+1. Access your IAS Administration Console.
+2. Under Administrators, click Add >> System.
+3. Specify a name for your user and ensure the following authorizations are enabled:
+   * Manage Users
+   * Manage Groups
+   * Manage Tenant Configuration
+For Set Password section, click Not Configured.
+4. Specify a password for your user and click Save. After saving, you will redirected back to the previous screen. Navigate back to the password screen and copy the User ID using the Copy icon. We need this User ID and the password later when setting up SAP Cloud Identity Authentication Service as a source system in SAP Cloud Identity Provisioning Service.
+5. Access your SAP Cloud Identity Services – Identity Provisioning (IPS) tenant.
+6. Click on Source Systems.
+7. Click Add.
+8. Specify the following and click Save:
+* Type: Identity Authentication
+* System Name: name of your choice
+9. Click Properties. You will see a list of pre-created properties.
+10. Click Add to add new properties. Use the Standard option for non-sensitive properties and Credential option for password fields.
+11. Add the additional properties below and click Save. Take a look at the help guide for the complete list of properties that are possible with Identity Authentication as a target system.
+    * Type: HTTP
+    * ProxyType: Internet
+    * URL: SAP Cloud Identity Service tenant URL
+    * Authentication: BasicAuthentication
+    * User: System user created in step 3 earlier
+    * Password: Password for the system user
+
+Screenshot below shows the setup of my source job setup in IPS. Notice that I’ve also added some additional properties to filter the user and group that is read from IAS. It’s good idea to test the provisioning job with couple users and groups before you remove the filter and run the job for all users and groups. For the purpose of this blog, I am just going to provision the “DEMO” user and “BR_DEMO” group.
 
 Setup SAP S/4HANA Cloud as a target system in IPS
 

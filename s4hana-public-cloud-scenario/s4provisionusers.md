@@ -38,14 +38,14 @@ To populate the Global User ID field in S/4HANA Cloud user profile we need to us
    * __Manage Users__
    * __Manage Groups__
    * __Manage Tenant Configuration__
-4. For **Set Password** section, click **Not Configured**
-5. Specify a **password** for your user and click **Save**.  After saving, you will redirected back to the previous screen. Navigate back to the password screen and copy the **User ID** using the Copy icon.
+4. For **Set Password** section, click **Not Configured**.
+5. Specify a password for your user and click **Save**.  After saving, you will redirected back to the previous screen. Navigate back to the password screen and copy the **User ID** using the Copy icon.
 7. Access SAP Cloud Identity Provisioning (IPS) tenant.
 8. Click on **Source Systems**.
 9. Click **Add**.
-10. Specify the following and click **Save**:
-   * __Type__: Identity Authentication
-   * __System Name__: Name of your choice
+10. Specify the following and click **Save**.
+    * __Type__: Identity Authentication
+    * __System Name__: Name of your choice
 11. Click **Properties** to open up the list of pre-created properties.
 12. Click **Add** to add new properties. Use the Standard option for non-sensitive properties and Credential option for password fields.
 13. Add the additional properties below and click Save.

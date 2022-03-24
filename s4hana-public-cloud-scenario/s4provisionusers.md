@@ -44,8 +44,8 @@ For Set Password section, click Not Configured.
 6. Click on Source Systems.
 7. Click Add.
 8. Specify the following and click Save:
-* Type: Identity Authentication
-* System Name: name of your choice
+   * Type: Identity Authentication
+   * System Name: name of your choice
 9. Click Properties. You will see a list of pre-created properties.
 10. Click Add to add new properties. Use the Standard option for non-sensitive properties and Credential option for password fields.
 11. Add the additional properties below and click Save. Take a look at the help guide for the complete list of properties that are possible with Identity Authentication as a target system.

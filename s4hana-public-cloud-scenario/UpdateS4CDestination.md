@@ -12,4 +12,4 @@
      * __URL.queries.sap-client__: 100
      * __tc.enabled__: true  Click New Property and type property name and value.  Make sure ‘t’ is lowercase in “tc.enabled”.
 4. Confirm that your setup looks similar to the one in the screenshot.  **Save** your configuration.
-<img alt="destinationsetup32" src="32.png" />
+<img alt="destinationsetup32" src="32.png"/>

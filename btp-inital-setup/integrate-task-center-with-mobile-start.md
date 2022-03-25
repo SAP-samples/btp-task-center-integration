@@ -14,3 +14,4 @@ Are you interested in familiarizing yourself with SAP Mobile Start?
 - Check the [Three Scenarios on How You Can Get Started with SAP Mobile Start](https://blogs.sap.com/2021/09/03/three-scenarios-on-how-you-can-get-started-on-sap-mobile-start/)
 Download the SAP Mobile Start app from the App Store and start exploring the functions and features with the built-in demo mode.
 - Visit the [SAP Community page](https://community.sap.com/topics/mobile-experience/start) for SAP Mobile Start, where you will find a collection of blogs to help you get SAP Mobile Start up and running in your company!
+

@@ -5,7 +5,7 @@
 
 ## Description
 
-This repository provides an overview of planned SAP Task Center Missions:
+This repository provides an overview of planned SAP Task Center missions:
 
 This includes:
 

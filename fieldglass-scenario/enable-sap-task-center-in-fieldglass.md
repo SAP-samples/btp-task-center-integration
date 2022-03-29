@@ -9,9 +9,9 @@
 5. In the **Identity Provider Details** section, choose the **Upload** button to upload the client's metadata file using the **Identity Provider Metadata Import** tool.
 ![Enable SAP Task Center 5](images/S5.png)
 ![Enable SAP Task Center 6](images/S6.png)
-6. In the **SAML Identity Location** property, choose **Attribute**, and in the **Attribute Name** text box, type sap_uid, Click **Next**.
+6. In the **SAML Identity Location** property, choose **Attribute**, and in the **Attribute Name** text box, type sap_uid, click **Next**.
 ![Enable SAP Task Center 7](images/S7.png)
-7. In the **Service Provider Details** section, choose **Yes** for the **Enable Deep Linking In Notifications?** property, Click **Next**.
+7. In the **Service Provider Details** section, choose **Yes** for the **Enable Deep Linking In Notifications?** property, click **Next**.
 ![Enable SAP Task Center 8](images/S8.png)
-8. Click **Exit Wizard**.
+8. The **Finished** step opens, confirming you have finished SSO setup, click **Exit Wizard**.
 ![Enable SAP Task Center 9](images/S9.png)

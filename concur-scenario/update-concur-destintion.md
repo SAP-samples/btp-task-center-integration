@@ -4,7 +4,7 @@
    
 <img alt="update_destination_1" src="images/update_destination_1.png"/>
 
-1. Edit the pre-created destination and update the properties below:
+4. Edit the pre-created destination and update the properties below:
    * __URL__: <Your Concur Data Center API URL> for example https://us.api.concursolutions.com/expensereports
     (https://<datacenter_base_URI>/expensereports for Expense or https://<datacenter_base_URI>/travelrequest for Requests)
    * __Client Key__: <Company Request Token obtained in SAP Concur>
@@ -17,6 +17,6 @@
   (For Additional Properties, click __New Property__ and type property name and value.  Make sure ‘t’ is lowercase in “tc.enabled”).
      * __tc.concur.dc__: <Your Concur DC> for example us (valid ones are eu&us)
   
-4. Confirm that your setup looks similar to the one in the screenshot and __Save__ your configuration.
+5. Confirm that your setup looks similar to the one in the screenshot and __Save__ your configuration.
 
 <img alt="update_destination_2" src="images/update_destination_2.png"/>

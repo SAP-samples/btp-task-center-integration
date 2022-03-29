@@ -20,3 +20,7 @@
 5. Confirm that your setup looks similar to the one in the screenshot and __Save__ your configuration.
 
 <img alt="update_destination_2" src="update_destination_2.png"/>
+
+Testing the connection may not provide the correct information about the connectivity to your SAP Concur System.
+For details of the other properties or for full details for manually creating the destinations, consult the help documentation link here: 
+[Connect SAP Concur and SAP Task Center](https://help.sap.com/viewer/ba03bf8dad8f42678adfb0c4935b9980/en-US/f354ef9cab4641219fd849102d1b5b0c.html)

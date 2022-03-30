@@ -1,3 +1,10 @@
+# Connect SAP Concur & Task Center
+
+If you have executed the automatic setup (see [Automatic Setup](https://help.sap.com/viewer/08cbda59b4954e93abb2ec85f1db399d/Prod/en-US/3a499676e7ae4282af84092f778e3737.html)), you already sample destinations called Concur_req and Concur_exp. You can use the sample destinations or clone them, and update the properties as described below.
+If you have followed the manual setup (see [Manual Setup](https://help.sap.com/viewer/DRAFT/ba03bf8dad8f42678adfb0c4935b9980/Internal/en-US/0f00d3d3e2ab460c856d409c469fb4f1.html)), you have to create a new destination and manually add all of the reuired properties and values for the destination from scratch as described in the help documentation link here: 
+[Connect SAP Concur and SAP Task Center](https://help.sap.com/viewer/ba03bf8dad8f42678adfb0c4935b9980/en-US/f354ef9cab4641219fd849102d1b5b0c.html)
+The help documentation provides full details for the properties used by the destinations. 
+
 1. Access your BTP Subaccount.
 2. Your SAP Concur may have Concur Expense, Concur Request, or both. SAP Task Center requires separate destinations for each product (Concur Expense and Concur Request). The URL specifies whether the destination is for Concur Expense or Concur Request. Each destination should have a unique combination of the fields URL and Client Key.
 3. Under **Destinations**, select the **concur_exp** or **concur_req** destination that was created when you ran the booster to setup Task Center.
@@ -22,5 +29,4 @@
 <img alt="update_destination_2" src="update_destination_2.png"/>
 
 Testing the connection may not provide the correct information about the connectivity to your SAP Concur System.
-For details of the other properties or for full details for manually creating the destinations, consult the help documentation link here: 
-[Connect SAP Concur and SAP Task Center](https://help.sap.com/viewer/ba03bf8dad8f42678adfb0c4935b9980/en-US/f354ef9cab4641219fd849102d1b5b0c.html)
+

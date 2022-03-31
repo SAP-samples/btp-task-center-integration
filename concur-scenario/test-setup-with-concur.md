@@ -1,6 +1,6 @@
 # Validate and Test Your Integration
 
-## Check Task Center Connector to SAP Concur
+## Check Task Center Connector Status for SAP Concur
 
 1.  Log on to your Launchpad and open the **Task Center Administration**
     App under **Task Center Apps**.

@@ -1,4 +1,4 @@
-1. Access your BTP Subaccount.
+1. Access your BTP Subaccount.z
 2. Your SAP Concur may have Concur Expense, Concur Request, or both. SAP Task Center requires separate destinations for each product (Concur Expense and Concur Request). The URL specifies whether the destination is for Concur Expense or Concur Request. Each destination should have a unique combination of the fields URL and Client Key.
 3. Under **Destinations**, select the **concur_exp** or **concur_req** destination that was created when you ran the booster to setup Task Center.
    

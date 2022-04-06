@@ -17,7 +17,7 @@ This includes:
 - SAP Task Center Integration with SAP Fieldglass
 - SAP Task Center Integration with SAP Ariba
 
-SAP BTP Solution Diagram
+### SAP BTP Solution Diagram
 
 <img src="docs/pics/sap_btp_taskcenter_solution_diagram.png" width="750">
 

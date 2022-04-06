@@ -1,6 +1,6 @@
 1. Access your BTP Subaccount.
 2. Under **Destinations**, select **S4HANACloud** destination that is created when you run the booster to setup Task Center.
-<img alt="destinationsetup31" src="31.png"/>
+<img alt="destinationsetup31" src="images/31.png"/>
 
 3. Edit the pre-created destination and update the properties below:
    * __URL__: <Your S/4HANA Cloud API URL for eg. https://myXXXXX-api.s4hana.ondemand.com>.
@@ -14,4 +14,4 @@
      * __tc.enabled__: true  Click New Property and type property name and value.  Make sure ‘t’ is lowercase in “tc.enabled”.
 4. Confirm that your setup looks similar to the one in the screenshot and **Save** your configuration.
 
-<img alt="destinationsetup32" src="32.png"/>
+<img alt="destinationsetup32" src="images/32.png"/>

@@ -23,7 +23,6 @@ BTP Solution Diagram
 
 ## Requirements
 
-## Download and Installation
 
 ## Known Issues
 

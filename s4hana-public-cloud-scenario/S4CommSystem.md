@@ -2,7 +2,6 @@
 
 ![alt text](images/2.png)
 
-
 2. Log into your S/4HANA Cloud system and access **Maintain Communication Users**.
 
 ![alt text](images/14.png)

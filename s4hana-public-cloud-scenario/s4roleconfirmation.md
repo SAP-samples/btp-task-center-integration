@@ -2,8 +2,8 @@ The user who will approve/reject tasks from SAP S/4HANA Cloud in SAP Task Center
 
 1. Log into your SAP S/4HANA Cloud system.
 2. Access **Maintain Business Roles**.
-<img alt="businessroles" src="images/businessroles.png"/>
+![alt text](images/businessroles.png)
 
 3. Pick an existing business role (eg. BR Employee) assigned to user who will log into SAP Task Center to approve/reject tasks.
 4. Confirm the **Business Process Management - Task Center** business catalog is added to the role.
-<img alt="s4rolesrequired" src="images/s4rolerequired.png"/>
+![alt text](images/s4rolerequired.png)

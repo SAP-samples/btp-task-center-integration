@@ -13,9 +13,9 @@ This includes:
 - SAP Task Center Integration with SAP SuccessFactors
 - SAP Task Center Integration with SAP S/4HANA Cloud
 - SAP Task Center Integration with SAP S/4HANA
-- SAP Task Center Integration with SAP Concur (not yet supported)
+- SAP Task Center Integration with SAP Concur (not released)
 - SAP Task Center Integration with SAP Fieldglass
-- SAP Task Center Integration with SAP Ariba (not yet supported)
+- SAP Task Center Integration with SAP Ariba (not released)
 
 ### SAP BTP Solution Diagram
 

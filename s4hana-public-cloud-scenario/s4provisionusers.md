@@ -8,7 +8,7 @@ This field will normally be empty after users are onboarded in SAP S/4HANA Cloud
 * https://blogs.sap.com/2017/12/07/sap-s4hana-cloud-system-setup/
 * https://microlearning.opensap.com/media/User+Management+Overview+-+SAP+S+4HANA+Cloud+Deployment/1_26wlxfj9
 
-For a quick test, you can simply copy the User UUID field from SAP Cloud Identity Authentication Service(IAS) and paste into the Global User ID field in S/4HANA Cloud.  A robust solution to handle this requires using SAP Cloud Identity Provisioning Service (IPS) to replicate the users from SAP Cloud Identity Authentication Service(IAS) to SAP S/4HANA Cloud.
+For a quick test, you can simply copy the User UUID field from SAP Cloud Identity Authentication Service(IAS) and paste into the Global User ID field in S/4HANA Cloud.  A robust solution to handle this requires using SAP Cloud Identity Provisioning Service (IPS) to replicate the users from SAP Cloud Identity Authentication Service(IAS) to SAP S/4HANA Cloud.  This process involves the following steps:
 * Create a Communication System in S/4HANA Cloud
 * Setup SAP Cloud Identity Authentication Service(IAS) as a source system in SAP Cloud Identity Provisioning Service(IPS)
 * Setup SAP S/4HANA Cloud as a target system in SAP Cloud Identity Provisioning Service(IPS)

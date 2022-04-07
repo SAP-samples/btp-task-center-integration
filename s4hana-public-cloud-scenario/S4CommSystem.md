@@ -1,6 +1,6 @@
 1. In your BTP subaccount, click **Destinations >> Download Trust**.  A file will be downloaded to your downloads folder.  This file is required when creating the communication system in S/4HANA Cloud.
 
-![alt text](images/2.png)
+![alt text](images/13-0.png)
 
 2. Log into your S/4HANA Cloud system and access **Maintain Communication Users**.
 

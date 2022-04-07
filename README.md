@@ -1,3 +1,4 @@
+[![Readme Links Watcher](https://github.com/SAP-samples/btp-task-center-integration/actions/workflows/markdown-link-validator.yml/badge.svg)](https://github.com/SAP-samples/btp-task-center-integration/actions/workflows/markdown-link-validator.yml)
 # SAP Task Center - SAP Discovery Center Missions and Reusable Content
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)

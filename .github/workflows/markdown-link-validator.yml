@@ -7,12 +7,8 @@
 name: Readme Links Watcher
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    types: [opened, edited, synchronize, reopened]
-  cron:
-    schedule: '0 0 * * *'
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,7 +24,7 @@ jobs:
 
       - name: Check links in markdown files
         id: lychee
-        uses: lycheeverse/lychee-action@v1.2.0
+        uses: lycheeverse/lychee-action@v1.3.0
         with:
           fail: true
           args: --verbose --no-progress --exclude-file .lycheeignore --exclude-mail --exclude-all-private **/*.md

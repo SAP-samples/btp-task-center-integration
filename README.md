@@ -9,7 +9,7 @@ This repository provides an overview of the planned SAP Task Center missions:
 
 This includes:
 
-- Initial Setup of the SAP Task Center Service on SAP Business Technology Platform (SAP BTP)
+- Initial Setup of the SAP Task Center Service on SAP Business Technology Platform (SAP BTP) [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3774/)
 - SAP Task Center Integration with SAP SuccessFactors
 - SAP Task Center Integration with SAP S/4HANA Cloud
 - SAP Task Center Integration with SAP S/4HANA

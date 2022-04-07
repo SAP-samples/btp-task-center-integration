@@ -1,21 +1,21 @@
-# SAP Task Center
+# SAP Task Center - SAP Discovery Center Missions and Reusable Content
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
 ## Description
 
-This repository provides an overview of the planned SAP Task Center missions:
+This repository provides an overview of the released and planned SAP Task Center missions, and includes content that can be reused by them. 
 
-This includes:
+Here is an overview of the missions, related to SAP Task Center:
 
 - Initial Setup of the SAP Task Center Service on SAP Business Technology Platform (SAP BTP) [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3774/)
-- SAP Task Center Integration with SAP SuccessFactors
+- SAP Task Center Integration with SAP SuccessFactors [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3816/)
 - SAP Task Center Integration with SAP S/4HANA Cloud
 - SAP Task Center Integration with SAP S/4HANA
-- SAP Task Center Integration with SAP Concur (not released)
 - SAP Task Center Integration with SAP Fieldglass
-- SAP Task Center Integration with SAP Ariba (not released)
+- SAP Task Center Integration with SAP Concur (not supported yet)
+- SAP Task Center Integration with SAP Ariba (not supported yet)
 
 ### SAP BTP Solution Diagram
 

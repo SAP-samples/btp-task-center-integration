@@ -4,6 +4,7 @@ In order to use SAP Task Center with SAP S/4HANA Cloud, it's important that the 
 
 <img alt="update2" src="images/Update2.png"/>
 
+Test Image:
 ![alt text](images/Update2.png)
 
 This field will normally be empty after users are onboarded in SAP S/4HANA Cloud. For more information on S/4HANA Cloud user onboarding process, refer to the links below:

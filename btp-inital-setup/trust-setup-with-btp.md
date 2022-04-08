@@ -6,7 +6,7 @@ To support this, you are **required** to use the user universal unique identifie
 
 For more information, see Identity Lifecycle: SAP Reference Architecture for Identity Access Management – Part 2.
 
-##Configuration
+## Configuration
 
 To enable trust in your subaccount on SAP BTP, see also [Establish Trust and Federation Between UAA and Identity Authentication](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/161f8f0cfac64c4fa2d973bc5f08a894.html).
 

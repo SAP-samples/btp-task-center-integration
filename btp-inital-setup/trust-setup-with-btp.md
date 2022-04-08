@@ -37,14 +37,14 @@ https://<Identity_Authentication_tenant>.accounts.ondemand.com/admin
 
 In the Identity Authentication service, navigate to **Applications & Resources**.
 
-<img src="images/appandresource.png" width="500">
+![Applications & Resources](images/appandresource.png)
 
 Identity Authentication:
 
-<img src="images/ias_app_xsuaa.png" width="500">
+![xsuaa](images/ias_app_xsuaa.pn)
 
 SAP BTP cockpit:
 
-<img src="images/btp_subdomain.png" width="500">
+![BTP subdomain](images/btp_subdomain.png)
 
 **Congratulations!** With this step you have finalized the setup of the trust configuration.

@@ -15,7 +15,7 @@ Click the **+** buton an enter in the **Name** a the group name (this needs to m
 
 ![define rc group](images/lp_admin_role_collection_group.png)
 
-*Background: With this assigment it's possible to automatically assign users (which are staored in SAP Cloud Identity service) to the role collection.
+* **Background: With this assigment it's possible to automatically assign users (which are staored in SAP Cloud Identity service) to the role collection.**
 In the next step we will finalyze the configuartion on  SAP Cloud Identity services - Identiy Authentication.
 
 ## User creation on SAP Cloud Identity services - Identiy Authentication
@@ -25,6 +25,28 @@ Login to the SAP Cloud Identity services - Identiy Authentication tenant which i
 
 ![user creation](images/lp_admin_user.png)
 
-Now switch to the **User Groups** and create a new group or as shown here in this example to edit the **Admins** group an add the previously created user:
+Now switch to **User Groups** and create a new group or like in this example to edit the **Admins** group an add the previously created user:
 
 ![modify group](images/assign_ias_lp_admin_2_group.png)
+
+For more information about how to create a user, see [Create Users](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/a3bc7e863ac54c23ab856863b681c9f8.html).
+
+## Validate the Identity Authentication setup
+
+1. To validate the trust setup, execute SAP Launchpad service.
+2. From the navigation menu, choose **Services > Instances and Subscriptions**.
+3. To open the application, choose the **Go to Application** icon.
+
+![open site manager](images/btp_open_lp_site_manager.png)
+
+If you now log on with valid Identity Authentication credentials you should change the password: 
+
+![open site manager](images/login_and_change_pw.png)
+
+Afterwards you should now get access to the BTP Launchpad **Site Manager**:
+
+![open site manager](btp_lp_site_manager.png.png)
+
+## Result
+
+With this we can now finsh the last step, where we integarte the SAP Taske Center applications, into a new launchpad site.

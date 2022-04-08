@@ -21,7 +21,7 @@ In your subaccount, you can establish automatic trust that is set up with the fo
 
 1. From the navigation menu, choose **Security > Trust Configuration**.
 
-<img src="images/establish_trust_cockpit.png" width="500">
+<images/establish_trust_cockpit.png" width="500">
 
 2. Choose **Establish Trust**, and select the Identity Authentication tenant that you want to connect with your subaccount.
 

@@ -29,7 +29,7 @@ Info: Only tenants that belong to your customer ID are shown.
 
 As result, the Identity Authentication tenant is displayed as custom entry and you can use it in your subaccount.
 
-<img src="images/trustconfig.png" width="500">
+![trust config](images/trustconfig.png)
 
 3. (Optional) Enter the Identity Authentication using the following URL:
 

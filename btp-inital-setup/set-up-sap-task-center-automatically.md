@@ -24,6 +24,9 @@ Ensure that the following prerequisites are met:
 
 1. From the navigation menu, choose Boosters to display a list of the available boosters.
 2. Search for the Set up account for SAP Task Center booster.
-    ![btp booster procedure](images/btp_booster_procedure.png)
+
+![btp booster procedure](images/btp_booster_procedure.png)
+
 3. To enter the booster, choose Start.
-    ![btp booster procedure](images/btp_booster_start.png)
+
+![btp booster procedure](images/btp_booster_start.png)

@@ -19,3 +19,11 @@ Ensure that the following prerequisites are met:
     ![task center](images/tc_entitlement.png)
     - SAP Launchpad Service
     ![lp](images/lp_entitlement.png)
+
+## Procedure
+
+1. From the navigation menu, choose Boosters to display a list of the available boosters.
+2. Search for the Set up account for SAP Task Center booster.
+    ![btp booster procedure](images/btp_booster_procedure.png)
+3. To enter the booster, choose Start.
+    ![btp booster procedure](images/btp_booster_start.png)

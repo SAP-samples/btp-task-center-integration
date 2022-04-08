@@ -32,7 +32,7 @@ In this section, you finish the integration of SAP Task Center with SAP Launchpa
 
 ![check my content](images/btp_lp_my_content_check.png)
 
-## Create group & assign applications
+## Create group & assign SAP Task Center application
 
 9. Create a new group with a name of your choice, and assign the **SAP Task Center** application.
 

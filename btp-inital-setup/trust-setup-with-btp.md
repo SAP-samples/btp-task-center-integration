@@ -41,7 +41,7 @@ In the Identity Authentication service, navigate to **Applications & Resources**
 
 Identity Authentication:
 
-![xsuaa](images/ias_app_xsuaa.pn)
+![xsuaa](images/ias_app_xsuaa.png)
 
 SAP BTP cockpit:
 

@@ -13,18 +13,39 @@ For more information about boosters, see [Boosters](https://help.sap.com/product
 
 Ensure that the following prerequisites are met:
 
-- Trust is set up between the target subaccount and the Identity Authentication service.
-- To ensure the availability of the services, choose Entitlements from the navigation menu and search for:
-    - SAP Task Center
+- Trust is set up between the target subaccount and the **Identity Authentication service**.
+- To ensure the availability of the services, choose **Entitlements** from the navigation menu and search for:
+    - **SAP Task Center**
     ![task center](images/tc_entitlement.png)
-    - SAP Launchpad Service
+    - **SAP Launchpad Service**
     ![lp](images/lp_entitlement.png)
 
 ## Procedure
 
-1. From the navigation menu, choose Boosters to display a list of the available boosters.
-2. Search for the Set up account for SAP Task Center booster.
+1. From the navigation menu, choose Boosters to display a list of the available **boosters**.
+2. Search for the **Set up account for SAP Task Center** booster.
 ![btp booster procedure](images/btp_booster_procedure.png)
 3. To enter the booster, choose Start.
 ![btp booster start](images/btp_booster_start.png)
 
+In the following steps, the booster validates the prerequisites and informs you if something is missing, for example, the Identity Authentication trust setup with the subaccount.
+
+![check](images/btp_booster_validation_prereq.png)
+
+If all prerequisites are met, no error is shown.
+
+![check](images/btp_booster_config_sub_acc.png)
+
+4. In the **Review** step, you can review your entries.
+
+5. The booster displays its progress in a popup.
+
+![progress](images/btp_booster_progress.png)
+
+Finally, a popup informs you about the success.
+
+![success](images/btp_booster_start.png)
+
+**Congratulations!** With the successful execution of the **SAP Task Center booster** you can move to the next step. You’ll set up SAP Launchpad service to access the SAP Task Center web application!
+
+For more information about the automatic setup of SAP Task Center, see [Automatic Setup](https://help.sap.com/viewer/08cbda59b4954e93abb2ec85f1db399d/Cloud/en-US/3a499676e7ae4282af84092f778e3737.html).

@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 SAP Task Center supports the user universal unique identifier (UUID) to ensure the identification of the end user in each connected system, for example, SAP S/4HANA with a unique identifier.
 

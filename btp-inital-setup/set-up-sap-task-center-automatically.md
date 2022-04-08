@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 To speed up the setup process, SAP Task Center provides a booster to automate certain steps.
 The booster is run on global account level.

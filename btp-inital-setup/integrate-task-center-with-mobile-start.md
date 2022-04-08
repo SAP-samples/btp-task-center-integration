@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Learn how to manage your Workflows on your mobile device with SAP Mobile Start
 

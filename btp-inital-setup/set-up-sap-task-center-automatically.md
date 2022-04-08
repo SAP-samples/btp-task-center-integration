@@ -20,6 +20,7 @@ Ensure that the following prerequisites are met:
 
 ![task center](images/tc_entitlement.png)
    
+
 - **SAP Launchpad Service**
 
 ![lp](images/lp_entitlement.png)

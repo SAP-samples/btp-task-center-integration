@@ -45,7 +45,7 @@ If you now log on with valid Identity Authentication credentials you should chan
 
 Afterwards you should now get access to the BTP Launchpad **Site Manager**:
 
-![open site manager](btp_lp_site_manager.png.png)
+![open site manager](btp_lp_site_manager.png)
 
 ## Result
 

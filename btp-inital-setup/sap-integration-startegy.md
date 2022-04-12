@@ -9,5 +9,5 @@ One workflow inbox is a prominent example for a suite quality and targets an int
 
 ### SAP's Integration Strategy in the cloud
 
-![int startegy](images/sap_integration_strategy_white.png)
+![int startegy](images/)
  

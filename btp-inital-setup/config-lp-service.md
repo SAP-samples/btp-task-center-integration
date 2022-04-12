@@ -3,7 +3,7 @@
 In this section we need to grant access to an "admin" user, who will maintain the SAP Launchpad service site via the [Site Manager](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/3f619a13ca2a4a59a14bec8507c3fb69.html).
 
 
-## Adjust SAP Laucnhpad Service Role Collection
+## Adjust SAP Launchpad Service Role Collection
 
 The first step is now to modify the **Launchpad_Admin** role collection.
 In your SAP Business Technology Platform (SAP BTP) subaccount navigate to **Security > Role Collections**, and choose the **Launchpad_Admin** entry:

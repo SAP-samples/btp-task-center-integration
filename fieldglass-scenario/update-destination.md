@@ -19,3 +19,4 @@
 ![Configure BTP Destinations 1](images/D2.png)
 4. Select the **Use default JDK truststore** checkbox.  
 5. Confirm that your setup looks similar to that in the screenshot and **Save** your configuration.
+**Note**: To check the connectivity between the SAP Task Center service and SAP Fieldglass, use the monitoring functionality of SAP Task Center. If you choose **Check Connection** in the destination configuration, you may not receive correct information about the connectivity between the SAP Task Center service and SAP Fieldglass.

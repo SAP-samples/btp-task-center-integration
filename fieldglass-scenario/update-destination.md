@@ -1,4 +1,4 @@
-1. Access your BTP Subaccount. 
+1. Access your BTP Subaccount.  
 2. Under **Destinations**, select **Fieldglass** destination that is created when you run the booster to setup Task Center.
 ![Configure BTP Destinations 1](images/D1.png)
 3. Edit the pre-created destination and update the properties below:
@@ -16,5 +16,5 @@
         * __URL.headers.X-ApplicationKey__: Add the **API Application Key** value located on the View Application Keys page in SAP Fieldglass Configu-ration Manager. This value is used when making calls to the URL in this destination.
 
 ![Configure BTP Destinations 1](images/D2.png)
-4. Select the **Use default JDK truststore** checkbox.
+4. Select the **Use default JDK truststore** checkbox.  
 5. Confirm that your setup looks similar to that in the screenshot and **Save** your configuration.

@@ -8,8 +8,8 @@
    * __Token Service URL__: https://<**Your Fieldglass Tenant URL**>/api/oauth2/v2.0/token.
    * __Token Service User__: Add the **Virtual Person Name (Username)** value located in the Web Services section on the View Application Keys page in SAP Fieldglass Configuration Manager.
    * __Token Service Password__: Add the **License Key** value located in the Web Services section on the View Application Keys page in SAP Fieldglass Configuration Manager.
-   * __Additional Properties__:
-        * __tc.enabled__: true  //Click New Property and type property name and value.  Make sure ‘t’ is lowercase in “tc.enabled”.
+   * __Additional Properties__(For Additional Properties, click New Property and type property name and value.):
+        * __tc.enabled__: true  (Make sure ‘t’ is lowercase in “tc.enabled”).
         * __tc.clientId__: This property is used to enable task updates to be pushed from SAP Fieldglass. The value of this property is the value of the **uaa > clientid** from the service key of the new service instance.
         * __tokenServiceURL.queries.client_id__: Add the **Client ID** value located on the View Application Keys page in SAP Fieldglass Configuration Manager.
         * __tokenServiceURL.queries.client_secret__: Add the **Client Secret** value located on the View Application Keys page in SAP Fieldglass Configuration Manager.

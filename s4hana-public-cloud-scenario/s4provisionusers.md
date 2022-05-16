@@ -53,10 +53,10 @@ For a quick test, you can simply copy the User UUID field from SAP Cloud Identit
 13. Add the additional properties below and click Save.
     * __Type__: HTTP
     * __ProxyType__: Internet
-    * __URL__: <add your SAP Cloud Identity Authentication Service tenant URL>
+    * __URL__: SAP Cloud Identity Authentication Service tenant URL
     * __Authentication__: BasicAuthentication
-    * __User__: <add your system user created in IAS earlier>
-    * __Password__: <add the password for the system user>
+    * __User__: System user created in IAS earlier
+    * __Password__: Password for the system user
     
 ### Setup SAP S/4HANA Cloud as a target system in SAP Cloud Identity Provisioning Service(IPS)
 1. Access SAP Cloud Identity Provisioning (IPS) tenant.

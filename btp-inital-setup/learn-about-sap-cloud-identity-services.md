@@ -1,9 +1,9 @@
 ## Introduction
 
-SAP Cloud Identity Services are needed for integrating SAP SuccessFactors with SAP Task Center.
+SAP Cloud Identity Services are needed for integrating task providers with SAP Task Center.
 
 The SAP Cloud Identity Services comprise the Identity Authentication services (IAS) and Identity Provisioning services (IPS).
-You will need to ensure that they are connected to SAP SuccessFactors (they have already been connected to SAP Task Center, as explained in one of the previous cards, referring to this mission).
+You will need to ensure that they are connected to your task provider (they have already been connected to SAP Task Center, as explained in one of the previous cards, referring to this mission).
 
 Have a look at  
 

@@ -25,4 +25,15 @@
 ![Enable SAP Task Center 9](images/S13.png)
 13. Click on **Browse** to upload the Fieldglass metadata. 
 ![Enable SAP Task Center 9](images/S14.png)
-14. 
+14. **Save** the configuration.  
+![Enable SAP Task Center 9](images/S15.png)
+15. Click on **Subject Name Identifier**.  
+![Enable SAP Task Center 9](images/S16.png)
+16. Select **User UUID** as a basic attribute and **Save**.
+![Enable SAP Task Center 9](images/S17.png)
+17. Click on **Assertion Attributes**.
+![Enable SAP Task Center 9](images/S18.png)
+18. Add/Modify **User UUID** mapping to **sap_uid** and **Save**.
+![Enable SAP Task Center 9](images/S19.png)
+19. Contact SAP Fieldglass Customer Support at https://www.fieldglass.com/customer-supportInformation published on non-SAP site to request assistance with enabling the custom script sso.sapid2uname for the company. 
+

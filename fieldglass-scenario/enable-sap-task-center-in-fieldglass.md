@@ -17,6 +17,6 @@
 ![Enable SAP Task Center 9](images/S9.png)
 9. Click on **Actions -> Download SP Metadata**.  
 ![Enable SAP Task Center 9](images/S10.png)
-10. Navigate to your Identity Authentication Service Admin Console. Create a new application Under **Application**, 
+10. Navigate to your Identity Authentication Service Admin Console. Create a new application under **Applications**.   
 ![Enable SAP Task Center 9](images/S11.png)
 11. 

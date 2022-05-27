@@ -12,7 +12,7 @@ script. Then, enter an End Date, which can be +3-6 months from now.
    * __Is travel required for position?__: No.
    * __Legal Entity__: 1710.
    * __Site__: Plant 1 US (1070).
-   * __Business Unit__: Purch. Org 1710 (1710).
+   * __Business Unit__: Purch. Org 1710 (1710).  
 ![Test Integration 4](images/T4.png)
 5. Add a **Cost Center** and select **General Ledger Account**, click on **Submit** button.  
 ![Test Integration 5](images/T5.png)

@@ -1,17 +1,22 @@
-1. Download the **SAML 2.0 metadata** file from the Administration Console of Identity Authentication service or using the URL https://<Identity_Authentication_tenant>.accounts.ondemand.com/saml2/metadata
+1. Download the **SAML 2.0 metadata** file from the Administration Console of Identity Authentication service or using the URL https://<Identity_Authentication_tenant>.accounts.ondemand.com/saml2/metadata  
 ![Enable SAP Task Center 1](images/S1.png)
-2. Go to SAP Fieldglass and choose the **Configuration Manager** user.
+2. Go to SAP Fieldglass and choose the **Configuration Manager** user.  
 ![Enable SAP Task Center 2](images/S2.png)
-3. Click on **View Single Sign-On** Tile.
+3. Click on **View Single Sign-On** Tile.  
 ![Enable SAP Task Center 3](images/S3.png)
-4. On the Single Sign-On Setup page, choose **Edit**.
+4. On the Single Sign-On Setup page, choose **Edit**.  
 ![Enable SAP Task Center 4](images/S4.png)
-5. In the **Identity Provider Details** section, choose the **Upload** button to upload the client's metadata file using the **Identity Provider Metadata Import** tool.
+5. In the **Identity Provider Details** section, choose the **Upload** button to upload the client's metadata file using the **Identity Provider Metadata Import** tool.  
 ![Enable SAP Task Center 5](images/S5.png)
 ![Enable SAP Task Center 6](images/S6.png)
-6. In the **SAML Identity Location** property, choose **Attribute**, and in the **Attribute Name** text box, type sap_uid, click **Next**.
+6. In the **SAML Identity Location** property, choose **Attribute**, and in the **Attribute Name** text box, type sap_uid, click **Next**.  
 ![Enable SAP Task Center 7](images/S7.png)
-7. In the **Service Provider Details** section, choose **Yes** for the **Enable Deep Linking In Notifications?** property, click **Next**.
+7. In the **Service Provider Details** section, choose **Yes** for the **Enable Deep Linking In Notifications?** property, click **Next**.  
 ![Enable SAP Task Center 8](images/S8.png)
-8. The **Finished** step opens, confirming you have finished SSO setup, click **Exit Wizard**.
+8. The **Finished** step opens, confirming you have finished SSO setup, click **Exit Wizard**.  
 ![Enable SAP Task Center 9](images/S9.png)
+9. Click on **Actions -> Download SP Metadata**.  
+![Enable SAP Task Center 9](images/S10.png)
+10. Navigate to your Identity Authentication Service Admin Console. Create a new application Under **Application**, 
+![Enable SAP Task Center 9](images/S11.png)
+11. 

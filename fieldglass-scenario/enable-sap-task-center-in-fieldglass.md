@@ -35,5 +35,5 @@
 ![Enable SAP Task Center 18](images/S18.png)
 18. Add/Modify **User UUID** mapping to **sap_uid** and **Save**.
 ![Enable SAP Task Center 19](images/S19.png)
-19. Contact SAP Fieldglass Customer Support at https://www.fieldglass.com/customer-supportInformation published on non-SAP site to request assistance with enabling the custom script sso.sapid2uname for the company. 
+19. Contact SAP Fieldglass Customer Support at https://www.fieldglass.com/customer-support. Information published on non-SAP site to request assistance with enabling the custom script sso.sapid2uname for the company. 
 

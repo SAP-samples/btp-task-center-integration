@@ -7,3 +7,6 @@ Every mission contains a project board that allows you to:
 Get an overview of all the potential deliverables for a mission, whether it is onboarding or implementation.
 View fully customizable tasks that are listed as cards and categorized into phases (columns).
 We realize that each of your missions can be unique, this board supports that.
+
+
+

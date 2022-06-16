@@ -26,6 +26,5 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [Integrate SAP Task Center with SAP Launchpad service](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/integrate-sap-task-center-with-sap-lp-service.md)
     - [Learn how to manage your Workflows on your mobile device with SAP Mobile Start](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/integrate-task-center-with-mobile-start.md)
 
-
 - **Outlook**
     - [Integration with SAP solutions](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/integration-with-sap-solutions.md)

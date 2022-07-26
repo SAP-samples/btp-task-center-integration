@@ -7,7 +7,7 @@
 
 ## Description
 
-This repository provides an overview of the released and planned SAP Task Center missions, and includes content that can be reused by them. 
+This repository provides an overview of the released and planned SAP Task Center missions, and includes content that can be reused by them.. 
 
 Here is an overview of the missions, related to SAP Task Center:
 

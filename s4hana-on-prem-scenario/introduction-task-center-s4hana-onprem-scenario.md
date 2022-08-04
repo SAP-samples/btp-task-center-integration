@@ -1,74 +1,18 @@
 # Scenario Overview
 
-## Introduction
+SAP Task Center on SAP Business Technology Platform integrates with SAP S/4HANA running on your Onp-remise data center.
 
-The integration supports approvers with the following user roles:
+For SAP S/4HANA as Task Provider all approval use cases are supported as approvals are "generically" enabled by the underlying workflow engine. Thus all (standard + custom) approvals can be processed via SAP Task Center service on SAP BTP. See also [Supported Solutions and Use Cases]([https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/758209c5763840b3bce63327a02debbb.html) and [FAQs on SAP community page for SAP Task Center ](https://community.sap.com/topics/task-center/faq)
+## Prerequisites
+Before enabling the integration scenario between SAP S/4HANA and SAP Task ... 
+* Please check [SAP Note "2975987 - ABAP Platform Integration with SAP Task Center"](https://launchpad.support.sap.com/#/notes/2975987) to be sure that your current SAP S/4HANA version is supported as Task Provider for SAP Task Center.
 
--   Approver
+* Please check also on corrections under component "BC-BMT-WFM" which might be applied to the scenario and your SAP S/4HANA version. See also [SAP Note "3044195 - SAP Task Center Support Components"](https://launchpad.support.sap.com/#/notes/3044195)
 
--   Authorized Approver
+* Please check that the administrator setting up the integration to SAP Task Center must have the permissions in SAP S/4HANA to perfom configurations mention here: [Configuring SAP Task Center Integration](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/5117f21ef28f4e698d99fe3fdbc1be2a.html?version=latest)
+### Connect SAP S/4HANA and SAP Task Center
 
--   Cost Object Approver
+In general this mission is based on the SAP Help documentation [Connect SAP S/4HANA and SAP Task Center](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html)
 
--   Budget Approver
-
-### Prerequisites - Connect SAP S/4HANA and SAP Task Center
-
-[](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html)
-
-The administrator setting up the integration to SAP Task Center must
-have the following permissions in SAP Concur:
-
--   Expense Configuration Administrator or Client Expense Administrator
-    user roles to grant rights to view and modify Expense workflows.
-
--   Request Configuration Administrator, to grant rights to view and
-    modify Request workflows.
-
--   Web Services Administrator user role, to grant rights to generate a
-    company request token and company UUID.
-
-For further details consult the Concur documentation here:
-<https://www.concurtraining.com/customers/tech_pubs/Integration/Shr_SG_Task_Center_Integration.pdf>
-
-## Workflow Configuration Expense
-
-1.  Log into SAP Concur and open Administration \>\> Expense \>\>
-    Workflows
-
-![concur_configuration_1](images/concur_configuration_1.png)
-
-2.  On the Settings tab, select the **Connect SAP Concur approvals with
-    SAP Task Center**
-
-check box. Confirm the prompt and click **Save**.
-
-![concur_configuration_2](images/concur_configuration_2.png)
-
-## Workflow Configuration Request
-
-1.  Log into SAP Concur and open Administration \>\> Expense \>\>
-    Workflows
-
-2.  On the Settings tab, select the **Connect SAP Concur approvals with
-    SAP Task Center**
-
-check box. Confirm the prompt and click **Save**.
-
-Note: The SAP Task Center integration is not reversable.
-
-## Obtain Company Request Token for SAP Task Center
-
-1.  Log on to SAP Concur with Web Services Administrator role.
-
-2.  Open **Administration \>\> Company \>\> Authentication
-    Administration \>\> Company Request Token**.
-
-3.  Enter the following **Task Center App ID** into the **App ID**
-    field: **a8a7ec4d-828a-4c98-9fea-9cc273c0558d** and click
-    **Submit.**
-
-![concur_configuration_3](images/concur_configuration_3.png)
-
-4.  Retain the values of **Company UUID** & **Company Request Token**
-    for configuration of the SAP Task Center destination.
+**! Please pay attention to always select the version applicable to your SAP S/4HANA system in SAP Help documentation!**
+![SAP Help - Version selection](images/s4h_sap-help-business-workflow_sap-help_version_selection.png)

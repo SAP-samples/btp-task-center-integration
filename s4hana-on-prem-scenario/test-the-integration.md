@@ -1,4 +1,4 @@
-Test your integration with the following steps.
+Test your integration with the following steps:
 
 1. **Log on to SAP S/4HANA as an end user and use an application of your choice which creates tasks.**
 2. **Test if the task has arrived in SAP Task Center:**

@@ -1,10 +1,17 @@
+### ToDo
+**! Please check following topiucs before releasing the mission!**
+- [ ] Check the IAS / IPS cards; here UUID Is menentioend - not Global ID. Please check on latest documentation
+- [ ] Refactor alsop general stuff ... maybe only one card whcih all scenarios refer to
+
 ## SAP S/4HANA on-premise edition
 
 This repository contains content for the cards which are used in the SAP Discovery Center project board.
 
 - **Discover**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
-    - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
+    - [See SAP Task Center mission, explaining how to setup SAP Task Center Service](prereq-setup-sap-task-center.md)
+    - [Scenario Overview](introduction-task-center-s4hana-onprem-scenario.md)
+    - [Learn about SAP Cloud Identity Services](learn-about-sap-cloud-identity-services.md)
+    - [Learn about the commercial model](learn-about-btp-commercial-model.md)
    
 
 - **Prepare**

@@ -12,6 +12,7 @@ This repository contains content for the cards which are used in the SAP Discove
     - [Scenario Overview](introduction-task-center-s4hana-onprem-scenario.md)
     - [Learn about SAP Cloud Identity Services](learn-about-sap-cloud-identity-services.md)
     - [Learn about the commercial model](learn-about-btp-commercial-model.md)
+    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](check-task-center-cloud-idenity-services-integration.md)
    
 
 - **Prepare**

@@ -8,4 +8,4 @@ To process certain tasks the users must be able to navigate back from SAP Task C
 
 ![IMG Maintain URL](images/s4h-img-maintenance-url-settings.png)
 
-<sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Maintain URL Settings](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/bb442e2c95ca4aad8285b214265b2ef0.html?version=2021.002) in SAP Helpdocumentation.
+<sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Maintain URL Settings](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/bb442e2c95ca4aad8285b214265b2ef0.html?version=2021.002) in SAP Help documentation.

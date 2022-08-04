@@ -12,7 +12,7 @@ This repository contains conten for the cards which are used in the SAP Discover
 
 - **Prepare**
 
-    - [Check the commercial prerequisite for SAP Task Center](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/check-commercial-prereq-for-sap-task-center.md)
+    - [Check the commercial prerequisite for SAP Task Center](check-commercial-prereq-for-sap-task-center.md)
     - [Run the BTP booster to create a subaccount](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/run-booster-to-create-subaccount.md)
     - [Create subaccounts manually](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/create-subaccount-manually.md)
     - [Check the availability of the required SAP BTP services](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/create-subaccount-manually.md)

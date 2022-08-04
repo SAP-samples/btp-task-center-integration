@@ -34,6 +34,7 @@ This repository contains content for the cards which are used in the SAP Discove
     - [Create Service User for Task Pull Service](s4h-cust-su01-create-service-user-task-pull-service.md)
     - [Create Role for Task Detail Service](s4h-cust-pfcg-create-role-task-detail-service.md)
     - [Assign Role for Task Detail Service to Business Users](s4h-cust-assign-role-business-user.md)
+    - [Set up destination for connection to SAP S/4HANA](btp-create-destination-to-s4hana.md)
     - [Check Status of Integration on the Task Center Administration App](check-status-s4hana-integration.md)
     - [Test the Integration](test-the-integration.md)
 

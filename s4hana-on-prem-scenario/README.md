@@ -20,7 +20,7 @@ This repository contains content for the cards which are used in the SAP Discove
    
 
 - **Prepare**
-    - [SAP S/4HANA Integration Scenario with SAP cloud Identity](cloud-idenity-services-s4hana-integration.md)
+    - [SAP S/4HANA Integration Scenario with SAP Cloud Identity Services](cloud-idenity-services-s4hana-integration.md)
     - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
 
 - **Set Up**
@@ -29,6 +29,7 @@ This repository contains content for the cards which are used in the SAP Discove
 
 - **Outlook**
     - [Integrate other SAP LoB solutions](integrate-with-other-lob-solutions.md)
+    - [Use SAP Task Center function on your Mobile Phone](use-task-center-function-on-mobile-start.md)
 
 # Further Ressources
 - [Connect SAP S/4HANA and SAP Task Center - SAP Help Portal](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html?version=Cloud)

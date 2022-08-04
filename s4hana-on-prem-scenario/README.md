@@ -20,10 +20,12 @@ This repository contains content for the cards which are used in the SAP Discove
    
 
 - **Prepare**
-    - [SAP S/4HANA Integration Scenario with SAP Cloud Identity Services](cloud-idenity-services-s4hana-integration.md)
+    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](check-task-center-cloud-idenity-services-integration.md)
+    - [Make sure that SAP S4HANA and SAP Cloud Identity Services are integrated](cloud-idenity-services-s4hana-integration.md)
 
 
 - **Set Up**
+    - [Setup SAP Task Center integration with SAP S4HANA](intro-set-up-task-center-with-s4hana.md)
     - [Check Status of Integration on the Task Center Administration App](check-status-s4hana-integration.md)
     - [Test the Integration](test-the-integration.md)
 

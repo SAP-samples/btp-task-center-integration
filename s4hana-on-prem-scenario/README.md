@@ -3,6 +3,8 @@
 - [ ] Check the IAS / IPS cards; here UUID Is menentioend - not Global ID. Please check on latest documentation
 - [ ] Refactor alsop general stuff ... maybe only one card whcih all scenarios refer to
 
+- [ ] check image size - maybe has to be re-sized. Any general guidance?
+
 ## SAP S/4HANA on-premise edition
 
 This repository contains content for the cards which are used in the SAP Discovery Center project board.

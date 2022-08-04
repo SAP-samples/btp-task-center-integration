@@ -28,4 +28,5 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [Learn how to manage your Workflows on your mobile device with SAP Mobile Start](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/integrate-task-center-with-mobile-start.md)
 
 - **Outlook**
+
     - [Integration with SAP solutions](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/integration-with-sap-solutions.md)

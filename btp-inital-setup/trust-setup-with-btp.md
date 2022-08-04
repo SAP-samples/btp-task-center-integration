@@ -1,10 +1,8 @@
 ## Introduction
 
-SAP Task Center supports the user universal unique identifier (UUID) to ensure the identification of the end user in each connected system, for example, SAP S/4HANA with a unique identifier.
+SAP Task Center require a common unique identifier the **Global User ID** in your system landscape, for more details please have a look in the offical documentation on SAP Help to get a detailed overview:
 
-To support this, you are **required** to use the user universal unique identifier(UUID) of the [Identity Authentication service](https://help.sap.com/products/IDENTITY_AUTHENTICATION?version=Cloud) as the federation identifier.
-
-For more information, see Identity Lifecycle: SAP Reference Architecture for Identity Access Management – Part 2.
+[Global User ID in Integration Scenarios](https://help.sap.com/docs/SAP_CLOUD_IDENTITY/b95c3d5bab324a3a8409eee5267a5b75/a04611df60404a248a7a8089c85b9761.html)
 
 ## Configuration
 
@@ -33,7 +31,7 @@ As result, the Identity Authentication tenant is displayed as custom entry and y
 
 3. (Optional) Enter the Identity Authentication using the following URL:
 
-https://<Identity_Authentication_tenant>.accounts.ondemand.com/admin
+**https://<Identity_Authentication_tenant>.accounts.ondemand.com/admin**
 
 In the Identity Authentication service, navigate to **Applications & Resources**.
 
@@ -47,4 +45,4 @@ SAP BTP cockpit:
 
 ![BTP subdomain](images/btp_subdomain.png)
 
-**Congratulations!** With this step you have finalized the setup of the trust configuration.
+**Congratulations!** With this step you have finalized the setup of the trust configuration for your BTP sub account.

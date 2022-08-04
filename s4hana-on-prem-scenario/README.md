@@ -7,6 +7,8 @@
 
 - [ ] should we add link to teh Github repo so customer can conrtibute
 
+- [ ] wie kann ich auf eine Karte referenzieren?
+
 ## SAP S/4HANA on-premise edition
 
 This repository contains content for the cards which are used in the SAP Discovery Center project board.
@@ -25,7 +27,13 @@ This repository contains content for the cards which are used in the SAP Discove
 
 
 - **Set Up**
-    - [Setup SAP Task Center integration with SAP S4HANA](intro-set-up-task-center-with-s4hana.md)
+    - [Set up SAP Task Center integration with SAP S4HANA](intro-set-up-task-center-with-s4hana.md)
+    - [Maintain URL Settings - SAP Business Workflow](s4h-business-workflow-maintain-url-settings.md)
+    - [Publish OData V4 Service Group](s4h-cust-publish-odata-service-group.md)
+    - [Create Role for Technical User for Task Pull Service](s4h-cust-pfcg-create-role-task-pull-service.md)
+    - [Create Service User for Task Pull Service](s4h-cust-su01-create-service-user-task-pull-service.md)
+    - [Create Role for Task Detail Service](s4h-cust-pfcg-create-role-task-detail-service.md)
+    - [Assign Role for Task Detail Service to Business Users](s4h-cust-assign-role-business-user.md)
     - [Check Status of Integration on the Task Center Administration App](check-status-s4hana-integration.md)
     - [Test the Integration](test-the-integration.md)
 

@@ -3,6 +3,7 @@
 This repository contains conten for the cards which are used in the SAP Discovery Center project board.
 
 - **Discover**
+
    - [Learn how to use missions and project boards in SAP Discovery Center](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/learn-how-missions-and-project-boards-in-dc.md)
    - [Get an overview about the SAP Task Center](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/get-an-overview-about-sap-task-center.md)
    - [Learn about the SAP integration strategy](https://github.com/SAP-samples/btp-task-center-integration/blob/main/btp-inital-setup/sap-integration-startegy.md)

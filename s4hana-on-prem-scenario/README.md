@@ -5,6 +5,8 @@
 
 - [ ] check image size - maybe has to be re-sized. Any general guidance?
 
+- [ ] should we add link to teh Github repo so customer can conrtibute
+
 ## SAP S/4HANA on-premise edition
 
 This repository contains content for the cards which are used in the SAP Discovery Center project board.
@@ -18,7 +20,7 @@ This repository contains content for the cards which are used in the SAP Discove
    
 
 - **Prepare**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
+    - [SAP S/4HANA Integration Scenario with SAP cloud Identity](cloud-idenity-services-s4hana-integration.md)
     - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
 
 - **Set Up**
@@ -26,7 +28,7 @@ This repository contains content for the cards which are used in the SAP Discove
     - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
 
 - **Outlook**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
+    - [Integrate other SAP LoB solutions](integrate-with-other-lob-solutions.md)
 
 # Further Ressources
 - [Connect SAP S/4HANA and SAP Task Center - SAP Help Portal](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html?version=Cloud)

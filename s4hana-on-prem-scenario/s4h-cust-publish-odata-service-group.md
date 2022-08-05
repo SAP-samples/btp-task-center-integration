@@ -5,6 +5,7 @@ You publish the OData V4 service group on the back-end system that is necessary 
 1. In the Implementation Guide, choose **SAP Customizing Implementation Guide > ABAP Platform > Application Server  Business Management > SAP Business Technology Platform Integration > SAP Task Center Integration.** ![IMG acivity Publish OData V4](images/s4h-img-tree.png)
 
 2. Execute the **Publish OData V4 Service Group** activity (alternativly transaction **/IWFND/V4_ADMIN**) to start the SAP Gateway Service Administration
+
 ![Publish Service Groups](images/s4h-gateway-service-publish-service.png)
 
 3. Choose **Publish Service Groups**. 
@@ -20,9 +21,11 @@ You publish the OData V4 service group on the back-end system that is necessary 
 
 
 8. Select the entry, and choose **Publish Service Groups**.
+
 ![Publish Service Group - Step4](images/s4h-gateway-service-publish-service-activation-step1.png)
 
 9. Choose **Confirm** (checkmark icon ✔).
+
 ![Publish Service Group - Step5](images/s4h-gateway-service-publish-service-activation-step2.png)
 
 10. On the **Publish Service Group** dialog, choose **Confirm** again.
@@ -30,10 +33,12 @@ You publish the OData V4 service group on the back-end system that is necessary 
     *ℹ You might need to provide a Transport Request to save the changes.*
 
 11. On the **Information** dialog, choose **Confirm** again.
+
 ![Publish Service Group - Step6](images/s4h-gateway-service-publish-service-activation-step4.png)
 
 12. Repeat steps 6 to 11 for the **API_TASK_SPI_DETAILS** service group. 
 The service groups are displayed in the menu under **Service Groups**.
+
 ![Publish Service Group - Step6](images/s4h-gateway-service-publish-service-activation-step5.png)
 
 

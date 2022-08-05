@@ -23,5 +23,3 @@ Create an authorization role on your back-end system for granting access to the 
 
 
 <sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Create Role for Task Detail Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/fef6f08bd6f248f6a0c9d643b281709d.html?version=2021.002) in SAP Help documentation.
-
-ℹ Screenhot from SAP S/4HANA 2020 FPS02 system.

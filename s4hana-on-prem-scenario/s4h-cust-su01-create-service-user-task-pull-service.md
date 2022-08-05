@@ -11,7 +11,12 @@ Create a service user for granting access to the task pull service.
 
 3. On the **Logon Data** tab, select the user type **Service**, and enter a password.
 
+    ![SU01 Service User](images/s4h-su01-create-service-user.png)
+
 4. On the Roles tab, add the role, which you have created with in the previouse step to this user.
+
+    ![SU01 Service User Role assignment](images/s4h-su01-service-user-role-assignment.png)
+
 
 > ⚠ Remember the user name and password to be used with your configuration of the destination on SAP Business Technology Platform.
 

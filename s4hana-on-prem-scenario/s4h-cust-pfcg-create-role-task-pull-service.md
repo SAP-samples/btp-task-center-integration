@@ -24,6 +24,7 @@ Create an authorization role on your back-end system for granting access to the 
 6. The **Role Menu** contains the added entry.
 
 7. On the **Authorizations** tab, choose **Expert Mode for Profile Generation**.
+    
     ![PFCG - Step6](images/s4h-pfcg-create-role-generate-profile.png)
 
     ![PFCG - Step7](images/s4h-pfcg-create-role-generate-profile-step1.png)

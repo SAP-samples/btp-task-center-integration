@@ -56,6 +56,8 @@ For the setup of SAP Task Center, you must have a Cloud Connector that uses user
 
 4. Save your configuration.
 
+![BTP destination set up](images/btp_s4h_destination.png)
+
 > ℹ If you choose **Check Connection** in the destination configuration, you may not receive correct information about the connectivity between the SAP Task Center service and SAP S/4HANA 
 
 

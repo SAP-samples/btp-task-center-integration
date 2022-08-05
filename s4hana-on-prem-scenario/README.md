@@ -1,15 +1,15 @@
 ### ToDo
 **! Please check following topiucs before releasing the mission!**
 - [ ] Check the IAS / IPS cards; here UUID Is menentioend - not Global ID. Please check on latest documentation
-- [ ] Refactor alsop general stuff ... maybe only one card whcih all scenarios refer to
+- [ ] Refactor alsop general stuff ... maybe only one card which all scenarios refer to 
 
 - [ ] check image size - maybe has to be re-sized. Any general guidance?
 
-- [ ] should we add link to teh Github repo so customer can conrtibute
+- [ ] should we add link to teh Github repo so customer can contrtibute
 
 - [ ] wie kann ich auf eine Karte referenzieren?
 
-## SAP S/4HANA on-premise edition
+## SAP S/4HANA Integration with SAP Task Center
 
 This repository contains content for the cards which are used in the SAP Discovery Center project board.
 

@@ -1,0 +1,4 @@
+In order to use SAP Ariba with SAP Task Center, you will need to create two applications from the [SAP Ariba Developer Portal](https://developer.ariba.com/):
+
+- If you are going to be using SAP IPS for provisioning users and tasks, then you will need to create the SCIM API for User and Master Data. 
+- For SAP Task Center enablement, you will need to create the Procurement SPI for Task Center and Sourcing SPI for Task Center Applications in the developer portal. If you're suite integrated, create both. However, if you only use SAP Ariba Buying and Invoicing or SAP Ariba Sourcing/Contracts then create the one that fits your use case.

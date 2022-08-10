@@ -11,7 +11,7 @@ This repository contains conten for the cards which are used in the SAP Discover
    - [Learn about SAP Cloud Identity Services and the Global User ID](learn-about-sap-cloud-identity-services.md)
    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](prereq-setup-sap-task-center.md)
    - [Make sure that SAP Ariba and SAP Cloud Identity Services are connected](ariba-cloud-identity-integration.md)
-   - [Make sure you have created the proper SAP Ariba APIs before setup.]()
+   - [Make sure you have created the proper SAP Ariba APIs before setup.](ariba-api.md)
   
 - **Set Up**
 

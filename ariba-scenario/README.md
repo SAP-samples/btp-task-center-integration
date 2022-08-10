@@ -15,7 +15,6 @@ This repository contains conten for the cards which are used in the SAP Discover
   
 - **Set Up**
 
-    - [Enabling SAP Task Center integration with SAP Ariba]()
     - [Configure destinations for SAP Ariba in SAP BTP Sub Account]()
     - [Test the integration from S/4HANA Cloud into SAP Task Center](testintegration.md)
 

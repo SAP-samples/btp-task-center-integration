@@ -15,7 +15,7 @@ This repository contains conten for the cards which are used in the SAP Discover
   
 - **Set Up**
 
-    - [Configure destinations for SAP Ariba in SAP BTP Sub Account]()
+    - [Configure destinations for SAP Ariba in SAP BTP Sub Account](configure-btp-destination.md)
     - [Test the integration from S/4HANA Cloud into SAP Task Center](testintegration.md)
 
 - **Outlook**

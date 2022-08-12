@@ -5,8 +5,8 @@ Step 1: Assign role-based permission to admin user performing configuration in S
 1. Logon to the SAP SuccessFactors system and go to **Admin Center-> Manage Permission Roles**.
 2. Choose the permission category **Administrator Permissions ->Manage User**.
 3. select the following checkboxes:
-   • **Read Access to SCIM User API**
-   • **Edit Access to SCIM User API**
+- **Read Access to SCIM User API**
+- **Edit Access to SCIM User API**
 4. Go to **Administrator Permissions-> Manage Integration Tools**  and select **Access to Integration Service Registration Center UI** check box.
 Step 2: Enable To-Do Task Integration between SAP SuccessFactors and SAP Task Center using the Upgrade Center:
 

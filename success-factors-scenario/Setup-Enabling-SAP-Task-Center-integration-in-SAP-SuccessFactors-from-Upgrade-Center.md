@@ -13,7 +13,7 @@ Step 2: Enable To-Do Task Integration between SAP SuccessFactors and SAP Task Ce
 
 1. Logon to the SAP SuccessFactors system and go to **Admin Center ->Upgrade Center**.
 2. Find the **Enhanced To-Do Integration upgrade** and choose **Learn More & Upgrade Now**. This step provides important background information about the upgrade. Choose **Upgrade Now**.
-**NOTE**: If you don't find Enhanced To-Do Integration on the landing page of the Upgrade Center, check under View Saved for Later Items.
+**NOTE**: If you don't find **Enhanced To-Do Integration** on the landing page of the Upgrade Center, check under View Saved for Later Items.
 With this step, the records of the past 3 months of the SAP SuccessFactors categories affected by the integration are prepared for the initial load into SAP Task Center.
 
 You can find list of supported tasks here: -[Supported Tasks for Enhanced To-Do Integration - SAP Help Portal](https://help.sap.com/docs/PRODUCT_ID/568480cc877d4337992a2cd9792fbfed/cbb89cf9d70e4dafb005338f5ab93c3c.html?state=PRODUCTION&version=latest&locale=en-US)

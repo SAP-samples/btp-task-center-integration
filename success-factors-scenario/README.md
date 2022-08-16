@@ -5,7 +5,7 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [See SAP Task Center mission, explaining how to setup SAP Task Center service](Discover-how-to-setup-sap-task-center.md)
     - [Get to know the scenarios which can integrate with SAP Task Center](Discover-scenarios-which-can-integrate-with-sap-task-center.md)
 	- [Learn about SAP Cloud Identity Services](Discover-sap-cloud-identity-services.md)
-	- [Learn about the commercial model](Discover-Learn-about-commercial-model.md)   
+	- [Learn about the commercial model](Discover-learn-about-commercial-model.md)   
 
 - **Prepare**
     - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](prereq-setup-sap-task-center-and-sap-cloud-identity.md)

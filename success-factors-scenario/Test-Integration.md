@@ -10,3 +10,4 @@ Creating a leave request triggers a task for your manager assigned in the system
  •	Check if approval actions arrive back in SAP SuccessFactors: Approve a task in SAP Task Center, logon to the SAP SuccessFactors system and see if the status of the business object, on which the task was based, has changed. As prerequisite, your tasks need to have arrived in SAP Task Center (see step 2). The following procedure illustrates with the example of a leave request:
     •	Logon to SAP Task Center as respective manager, choose the leave request created above and press the Approve button. 
     •	Logon to the SAP SuccessFactors system, for example as employee. From the SAP Launchpad service, enter the leave application. You will see that the status of the leave request has changed from orange to green.
+    

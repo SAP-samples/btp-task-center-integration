@@ -14,7 +14,7 @@ This repository contains conten for the cards which are used in the SAP Discover
 - **Set Up**
     - [Enabling SAP Task Center integration in SAP SuccessFactors from Upgrade Center](Setup-enabling-sap-task-center-integration-in-sfsf-from-Upgrade-Center.md)
     - [Configure Integration service registration in SAP SuccessFactors ](Setup-configure-integration-service-registration-in-sap-sfsf.md)
-	- [Configure destinations for SAP SuccessFactors in SAP BTP subaccount](Setup-configure-destinations-for-sap-sfsf-in-sap-btp-subaccount.md)
+	- [Configure destinations for SAP SuccessFactors in SAP BTP subaccount](Setup-Configure-destinations-for-sap-sfsf-in-sap-btp-subaccount.md)
 	
 - **Test**
     - [Test the Integration](Test-integration.md)

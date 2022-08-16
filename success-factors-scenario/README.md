@@ -8,7 +8,7 @@ This repository contains conten for the cards which are used in the SAP Discover
 	- [Learn about the commercial model](Discover-Learn-About-Commercial-Model.md)   
 
 - **Prepare**
-    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](prereq-setup-sap-task-center-and-sap-cloud-identity-services.md)
+    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](prereq-setup-sap-task-center-and-sap-cloud-identity.md)
     - [Make sure that SAP SuccessFactors and SAP Cloud Identity Services are connected](Prereq-SAP-SuccessFactors-and-SAP-Cloud-Identity-Services-are-connected.md)
 
 - **Set Up**

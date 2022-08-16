@@ -12,7 +12,7 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [Make sure that SAP SuccessFactors and SAP Cloud Identity Services are connected](Prereq-sap-sfsf-and-sap-cloud-identity-services-are-connected.md)
 
 - **Set Up**
-    - [Enabling SAP Task Center integration in SAP SuccessFactors from Upgrade Center](Setup-enabling-sap-task-center-integration-in-sfsf-from-Upgrade-Center.md)
+    - [Enabling SAP Task Center integration in SAP SuccessFactors from Upgrade Center](Setup-enabling-sap-task-center-integration-in-sap-sfsf-from-upgrade-center.md)
     - [Configure Integration service registration in SAP SuccessFactors ](Setup-configure-integration-service-registration-in-sap-sfsf.md)
 	- [Configure destinations for SAP SuccessFactors in SAP BTP subaccount](Setup-Configure-destinations-for-sap-sfsf-in-sap-btp-subaccount.md)
 	

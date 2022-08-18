@@ -19,7 +19,7 @@ Step 2: Register the OAuth Client Application in SAP SuccessFactors to generate 
 - Choose **Register Client Application**.
 - Enter data as shown in step 2 of Procedure section of the document: ["Creating the Primary Destination with the Technical User"](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/dc5407b42c7e435b8124ee7a0816249c.html).
 - Save your changes.
-- To open the registered application, choose View. Copy API KEY value. 
+- To open the registered application, choose **View**. Copy **API Key** value. 
 - Open the downloaded Service Key file and note the following values: 
     - endpoints  inbox_rest_url
     - uaa  url

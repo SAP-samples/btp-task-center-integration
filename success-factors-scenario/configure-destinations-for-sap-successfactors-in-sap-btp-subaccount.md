@@ -1,7 +1,7 @@
 In this section, you configure 2 destinations in your SAP BTP subaccount for SAP SuccessFactors. For this configuration, you export your trust certificate and register the client application. The 2 destinations are:
 
-- Primary Destination: Create a primary destination with the technical user, as described in ["Creating the Primary Destination with the Technical User"](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/dc5407b42c7e435b8124ee7a0816249c.html).
-- Secondary Destination: Create a secondary destination for principal propagation, as described in ["Creating a Secondary Destination for the Principal Propagation"](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/bf657f8adefa4a468aa3c71783fca291.html).
+- **Primary Destination**: Create a primary destination with the technical user, as described in ["Creating the Primary Destination with the Technical User"](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/dc5407b42c7e435b8124ee7a0816249c.html).
+- **Secondary Destination**: Create a secondary destination for principal propagation, as described in ["Creating a Secondary Destination for the Principal Propagation"](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/bf657f8adefa4a468aa3c71783fca291.html).
 
 Step 1: Save the trust certificate locally
 

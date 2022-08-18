@@ -4,8 +4,8 @@ This repository contains conten for the cards which are used in the SAP Discover
 - **Discover**
     - [See SAP Task Center mission, explaining how to setup SAP Task Center service](how-to-setup-sap-task-center-service.md)
     - [Get to know the scenarios which can integrate with SAP Task Center](scenarios-which-can-integrate-with-sap-task-center.md)
-	- [Learn about SAP Cloud Identity Services](sap-cloud-identity-services.md)
-	- [Learn about the commercial model](learn-about-commercial-model.md)   
+	  - [Learn about SAP Cloud Identity Services](sap-cloud-identity-services.md)
+	  - [Learn about the commercial model](learn-about-commercial-model.md)   
 
 - **Prepare**
     - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](sap-task-center-and-sap-cloud-identity-services.md)
@@ -14,10 +14,8 @@ This repository contains conten for the cards which are used in the SAP Discover
 - **Set Up**
     - [Enabling SAP Task Center integration in SAP SuccessFactors from Upgrade Center](enabling-sap-task-center-integration-in-sap-successfactors-from-upgrade-center.md)
     - [Configure Integration service registration in SAP SuccessFactors ](configure-integration-service-registration-in-sap-successFactors.md)
-	- [Configure destinations for SAP SuccessFactors in SAP BTP subaccount](configure-destinations-for-sap-successfactors-in-sap-btp-subaccount.md)
-	
-- **Test**
-    - [Test the Integration](test-integration.md)
+	  - [Configure destinations for SAP SuccessFactors in SAP BTP subaccount](configure-destinations-for-sap-successfactors-in-sap-btp-subaccount.md)
+	  - [Test the Integration](test-integration.md)
 
 - **Outlook**
     - [Integrate other task provider systems](integration-with-sap-solutions.md)

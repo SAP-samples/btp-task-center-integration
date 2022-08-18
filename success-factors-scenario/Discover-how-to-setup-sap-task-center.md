@@ -1,0 +1,1 @@
+A prerequisite for integrating SAP Task Center and SAP SuccessFactors is the complete setup of both respective systems. See this ["mission"](https://discovery-center.cloud.sap/missiondetail/3774/3813/?tab=overview) about how to set up SAP Task Center.

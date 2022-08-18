@@ -1,1 +1,0 @@
-If you want to get started with SAP Task Center and SAP SuccessFactors, you require a **consumption-based commercial model** in your SAP BTP global account (CPEA or a Pay-As-You-Go for SAP BTP). ["Read more about this topic"](https://news.sap.com/2021/12/sap-task-center-click-read-approve-repeat/).

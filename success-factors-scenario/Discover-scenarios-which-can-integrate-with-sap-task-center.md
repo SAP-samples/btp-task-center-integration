@@ -1,1 +1,0 @@
-Here is an overview of the scenarios running on SAP SuccessFactors that send tasks to SAP Task Center: ["Integrating SAP SuccessFactors HXM Suite with SAP Task Center"](https://help.sap.com/docs/SAP_SUCCESSFACTORS_PLATFORM/568480cc877d4337992a2cd9792fbfed/cbb89cf9d70e4dafb005338f5ab93c3c.html)

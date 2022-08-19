@@ -1,3 +1,0 @@
-Make sure you have completed the SAP SuccessFactors integration with the SAP Cloud Identity Services - with **Identity Authentication (IAS)** and **Identity Provisioning (IPS)**, they are both necessary. This integration prepares all business users for access to **SAP Task Center**. 
-
-Complete information on this setup can be found in the help portal: ["Setting Up SAP SuccessFactors with Identity Authentication and Identity Provisioning Services"](https://help.sap.com/viewer/568fdf1f14f14fd089a3cd15194d19cc/latest/en-US/0e5832100602469985b053b43e983cb4.html)

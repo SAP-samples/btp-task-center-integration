@@ -4,7 +4,7 @@ This repository contains conten for the cards which are used in the SAP Discover
 
 - **Discover**
 
-   - [Learn how to use missions and project boards in SAP Discovery Center](prereq-setup-sap-task-center.md)
+   - [Learn how to use missions and project boards in SAP Discovery Center](learn-how-missions-and-project-boards-in-dc.md)
    - [SAP Task Center official documentation](sap-task-center-documentation.md)
 
 - **Prepare**

@@ -5,13 +5,13 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [Learn how to use missions and project boards in SAP Discovery Center](learn-how-missions-and-project-boards-in-dc.md)
     - [See SAP Task Center mission, explaining how to setup SAP Task Center service](how-to-setup-sap-task-center-service.md)
     - [SAP Task Center official documentation](sap-task-center-documentation.md)
-    - [Get to know the scenarios which can integrate with SAP Task Center](scenarios-which-can-integrate-with-sap-task-center.md)  
 
 - **Prepare**
     - [Check the commercial prerequisite for SAP Task Center](check-commercial-prereq-for-sap-task-center.md)
     - [Learn about SAP Cloud Identity Services and the Global User ID](learn-about-sap-cloud-identity-services.md)
     - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](sap-task-center-and-sap-cloud-identity-services.md)
     - [Make sure that SAP SuccessFactors and SAP Cloud Identity Services are connected](sap-successfactors-and-sap-cloud-identity-services-are-connected.md)
+    - [Get to know the scenarios which can integrate with SAP Task Center](scenarios-which-can-integrate-with-sap-task-center.md)
 
 - **Set Up**
     - [Enabling SAP Task Center integration in SAP SuccessFactors from Upgrade Center](enabling-sap-task-center-integration-in-sap-successfactors-from-upgrade-center.md)

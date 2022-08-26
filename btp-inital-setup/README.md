@@ -30,4 +30,3 @@ This repository contains conten for the cards which are used in the SAP Discover
 - **Outlook**
 
     - [Integration with SAP solutions](integration-with-sap-solutions.md)
-    

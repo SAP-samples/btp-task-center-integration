@@ -43,6 +43,10 @@ Identity Authentication:
 
 ![xsuaa](images/ias_app_xsuaa.png)
 
+Please change the value from the "Subject Name Identifier" to **User UUID**
+
+![trust config](images/ias_app_uuid.png)
+
 SAP BTP cockpit:
 
 ![BTP subdomain](images/btp_subdomain.png)

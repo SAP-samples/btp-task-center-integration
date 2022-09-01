@@ -43,7 +43,7 @@ Identity Authentication:
 
 ![xsuaa](images/ias_app_xsuaa.png)
 
-Please change the value from the "Subject Name Identifier" to **User UUID**
+4. Please change the value from the "Subject Name Identifier" to **User UUID**
 
 ![trust config](images/ias_app_uuid.png)
 

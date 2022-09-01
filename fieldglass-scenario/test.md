@@ -28,5 +28,5 @@ script. Then, enter an End Date, which can be +3-6 months from now.
 ![Test Integration 10](images/T10.png)
 11. Enter a Decision Note and Click on **Sumbit** button.  
 ![Test Integration 11](images/T11.png)
-12. The task will disappear from the list, and go to Fieldglass tenant to verify the Job Posting status.  
+12. The task will disappear from the list, and return to SAP Fieldglass toconfirm that Job Posting is now in an approved status.  
 ![Test Integration 12](images/T12.png)

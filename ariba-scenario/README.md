@@ -13,6 +13,7 @@ This repository contains conten for the cards which are used in the SAP Discover
    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](sap-task-center-and-sap-cloud-identity-services.md)
    - [Make sure that SAP Ariba and SAP Cloud Identity Services are connected](ariba-cloud-identity-integration.md)
    - [Make sure you have created the proper SAP Ariba APIs before setup.](ariba-api.md)
+   - [Enabling your OAuth and APIs with SAP Ariba Support.](Enabling-your-OAuth-and-APIs-with-SAP-Ariba-Support.md)
   
 - **Set Up**
 

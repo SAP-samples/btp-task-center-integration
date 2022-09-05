@@ -10,7 +10,7 @@ This repository contains content for the cards which are used in the SAP Discove
     - [See SAP Task Center mission, explaining how to setup SAP Task Center Service](prereq-setup-sap-task-center.md)
     - [Scenario Overview](introduction-task-center-s4hana-onprem-scenario.md)
     - [Learn about SAP Cloud Identity Services](learn-about-sap-cloud-identity-services.md)
-    - [Learn about the commercial model](learn-about-btp-commercial-model.md)
+    - [Learn about the commercial model](../btp-inital-setup/check-commercial-prereq-for-sap-task-center.md)
     - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](check-task-center-cloud-idenity-services-integration.md)
    
 

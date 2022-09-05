@@ -2,7 +2,7 @@
 
 SAP Task Center on SAP Business Technology Platform integrates with SAP S/4HANA running on your Onp-remise data center.
 
-For SAP S/4HANA as Task Provider all approval use cases are supported as approvals are "generically" enabled by the underlying workflow engine. Thus all (standard + custom) approvals can be processed via SAP Task Center service on SAP BTP. See also [Supported Solutions and Use Cases]([https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/758209c5763840b3bce63327a02debbb.html) and [FAQs on SAP community page for SAP Task Center ](https://community.sap.com/topics/task-center/faq)
+For SAP S/4HANA as Task Provider all approval use cases are supported as approvals are "generically" enabled by the underlying workflow engine. Thus all (standard + custom) approvals can be processed via SAP Task Center service on SAP BTP. See also [Supported Solutions and Use Cases](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/758209c5763840b3bce63327a02debbb.html) and [FAQs on SAP community page for SAP Task Center ](https://community.sap.com/topics/task-center/faq)
 ## Prerequisites
 Before enabling the integration scenario between SAP S/4HANA and SAP Task ... 
 * Please check [SAP Note "2975987 - ABAP Platform Integration with SAP Task Center"](https://launchpad.support.sap.com/#/notes/2975987) to be sure that your current SAP S/4HANA version is supported as Task Provider for SAP Task Center.

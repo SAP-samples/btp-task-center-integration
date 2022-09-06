@@ -39,14 +39,11 @@ You publish the OData V4 service group on the back-end system that is necessary 
 12. Repeat steps 6 to 11 for the **API_TASK_SPI_DETAILS** service group. 
 The service groups are displayed in the menu under **Service Groups**.
 
-![Publish Service Group - Step6](images/s4h-gateway-service-publish-service-activation-step5.png)
-
-
 
 ℹ To test the service groups, execute these steps:
--  Select the service groups from the **Service Test** dropdown menu.
+-  Select the service groups from the **Service Test** dropdown menu.  
     ![Test Connection - Step 1](images/s4h-gateway-service-publish-service-test-step1.png)
--  In the gateway client that opens, choose **Execute** to run the service and check whether a valid response is returned.
+-  In the gateway client that opens, choose **Execute** to run the service and check whether a valid response is returned.  
     ![Test Connection - Setp 2](images/s4h-gateway-service-publish-service-test-step2.png)
 
 

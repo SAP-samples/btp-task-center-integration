@@ -13,6 +13,10 @@ You've contacted SAP Fieldglass support to have `SAP_TASK_PUSH_CAPABILITY` in Co
 
 2. Choose **Configure**. The **Setup** dialog box opens.
 3. In the **Setup** dialog box, enter the service key details you received when following the prerequisites for creating a new service instance.  
+* __OAuth URL__: Copy the `uaa > url` attribute value from the prerequisites section. For example, `https://ies-one-inbox.authentication.sap.hana.ondemand.com`.
+* __Client ID__: Copy the `uaa > clientid` attribute value from the prerequisites section.
+* __Client Secret__: Copy the `uaa > clientsecret` attribute value from the prerequisites section.
+* __Destination URL__: Copy the `endpoints > inbox_rest_url` attribute value from the prerequisites section. For example, `https://api.one-inbox-service-sap.cfapps.sap.hana.ondemand.com/task-center-service`.
 ![Push Task 2](images/M2.png)
 
 4. Choose **Save**. The values are saved in the **Authentication** section on the SAP Task Center page. The push capability in now enabled.  

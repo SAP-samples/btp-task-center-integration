@@ -14,9 +14,9 @@ Make sure to renew your trust certificate before it expires. For the time while 
 **Limitations**
 
 SAP Fieldglass currently only supports these limited modules for the SAP Task Center service:
-* __Job Posting
-* __Work Order
-* __Work Order Revision
-* __Statement of Work (SOW)
-* __Project
-* __Profile Worker
+* Job Posting
+* Work Order
+* Work Order Revision
+* Statement of Work (SOW)
+* Project
+* Profile Worker

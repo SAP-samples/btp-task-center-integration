@@ -1,6 +1,5 @@
 1. Access your BTP Subaccount.  
-2. Under **Destinations**, select **Fieldglass** destination that is created when you run the booster to setup Task Center.
-
+2. Under **Destinations**, select **Fieldglass** destination that is created when you run the booster to setup Task Center.  
 ![Configure BTP Destinations 1](images/D1.png)
 3. Edit the pre-created destination and update the properties below:
    * __URL__: https://<**Your Fieldglass Tenant URL**>/api/v1.
@@ -14,10 +13,10 @@
         * __tc.clientId__: This property is used to enable task updates to be pushed from SAP Fieldglass. The value of this property is the value of the **uaa > clientid** from the service key of the new service instance.
         * __tokenServiceURL.queries.client_id__: Add the **Client ID** value located on the View Application Keys page in SAP Fieldglass Configuration Manager.
         * __tokenServiceURL.queries.client_secret__: Add the **Client Secret** value located on the View Application Keys page in SAP Fieldglass Configuration Manager.
-        * __URL.headers.X-ApplicationKey__: Add the **API Application Key** value located on the View Application Keys page in SAP Fieldglass Configu-ration Manager. This value is used when making calls to the URL in this destination.
-
+        * __URL.headers.X-ApplicationKey__: Add the **API Application Key** value located on the View Application Keys page in SAP Fieldglass Configu-ration Manager. This value is used when making calls to the URL in this destination.  
 ![Configure BTP Destinations 2](images/D2.png)
 4. Select the **Use default JDK truststore** checkbox.  
 5. Confirm that your setup looks similar to that in the screenshot and **Save** your configuration.  
 
-**Note**: To check the connectivity between the SAP Task Center service and SAP Fieldglass, use the monitoring functionality of SAP Task Center. If you choose **Check Connection** in the destination configuration, you may not receive correct information about the connectivity between the SAP Task Center service and SAP Fieldglass.
+>**Note**  
+>To check the connectivity between the SAP Task Center service and SAP Fieldglass, use the monitoring functionality of SAP Task Center. If you choose **Check Connection** in the destination configuration, you may not receive correct information about the connectivity between the SAP Task Center service and SAP Fieldglass.

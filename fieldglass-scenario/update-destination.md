@@ -1,4 +1,4 @@
-1. Access your BTP Subaccount.  
+1. Navigate to the Cloud Foundry subaccount, where your SAP Task Center instance was created, and select the **Connectivity** > **Destinations** tab from the navigation area on the left.  
 2. Under **Destinations**, select **Fieldglass** destination that is created when you run the booster to setup Task Center.  
 ![Configure BTP Destinations 1](images/D1.png)
 3. Edit the pre-created destination and update the properties below:  

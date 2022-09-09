@@ -1,5 +1,5 @@
 To enable task updates to be pushed from SAP Fieldglass to SAP Task Center, you need to set up the authentication credentials from SAP BTP cockpit where your SAP Task Center instance was created.
->**Note**
+>**Note**  
 >In this step, you get the service key that contains the values required for the Integration Service Registration Center.
 
 ## Prerequisites

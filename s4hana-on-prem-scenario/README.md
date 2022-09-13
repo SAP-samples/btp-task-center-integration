@@ -1,41 +1,34 @@
-### ToDo
-**! Please check following topiucs before releasing the mission!**
 
-- [ ] check image size - maybe has to be re-sized. Any general guidance?
 ## SAP S/4HANA Integration with SAP Task Center
 
-This repository contains content for the cards which are used in the SAP Discovery Center project board.
+This repository contains conten for the cards which are used in the SAP Discovery Center project board.
 
 - **Discover**
-    - [See SAP Task Center mission, explaining how to setup SAP Task Center Service](prereq-setup-sap-task-center.md)
-    - [Scenario Overview](introduction-task-center-s4hana-onprem-scenario.md)
-    - [Learn about SAP Cloud Identity Services](learn-about-sap-cloud-identity-services.md)
-    - [Learn about the commercial model](../btp-inital-setup/check-commercial-prereq-for-sap-task-center.md)
-    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](check-task-center-cloud-idenity-services-integration.md)
-   
+   - [Learn how to use missions and project boards in SAP Discovery Center](learn-how-missions-and-project-boards-in-dc.md)
+   - [SAP Task Center official documentation](sap-task-center-documentation.md)
 
 - **Prepare**
-    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](check-task-center-cloud-idenity-services-integration.md)
-    - [Make sure that SAP S4HANA and SAP Cloud Identity Services are integrated](cloud-idenity-services-s4hana-integration.md)
 
+   - [Learn about SAP Cloud Identity Services and the Global User ID](learn-about-sap-cloud-identity-services.md)
+   - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](sap-task-center-and-sap-cloud-identity-services.md)
+   - [Check the commercial prerequisite for SAP Task Center](check-commercial-prereq-for-sap-task-center.md)
+   - [Make sure that SAP S4HANA and SAP Cloud Identity Services are integrated](cloud-idenity-services-s4hana-integration.md)
+   - [Get to know the Scenarios which can integrate with SAP Task Center](introduction-task-center-s4hana-onprem-scenario.md)
 
 - **Set Up**
-    - [Set up SAP Task Center integration with SAP S4HANA](intro-set-up-task-center-with-s4hana.md)
-    - [Maintain URL Settings - SAP Business Workflow](s4h-business-workflow-maintain-url-settings.md)
-    - [Publish OData V4 Service Group](s4h-cust-publish-odata-service-group.md)
-    - [Create Role for Technical User for Task Pull Service](s4h-cust-pfcg-create-role-task-pull-service.md)
-    - [Create Service User for Task Pull Service](s4h-cust-su01-create-service-user-task-pull-service.md)
-    - [Create Role for Task Detail Service](s4h-cust-pfcg-create-role-task-detail-service.md)
-    - [Assign Role for Task Detail Service to Business Users](s4h-cust-assign-role-business-user.md)
-    - [Set up destination for connection to SAP S/4HANA](btp-create-destination-to-s4hana.md)
-    - [Check Status of Integration on the Task Center Administration App](check-status-s4hana-integration.md)
-    - [Test the Integration](test-the-integration.md)
+   - [Set up SAP Task Center integration with SAP S4HANA](intro-set-up-task-center-with-s4hana.md)
+   - [Maintain URL Settings - SAP Business Workflow](s4h-business-workflow-maintain-url-settings.md)
+   - [Publish OData V4 Service Group](s4h-cust-publish-odata-service-group.md)
+   - [Create Role for Technical User for Task Pull Service](s4h-cust-pfcg-create-role-task-pull-service.md)
+   - [Create Service User for Task Pull Service](s4h-cust-su01-create-service-user-task-pull-service.md)
+   - [Create Role for Task Detail Service](s4h-cust-pfcg-create-role-task-detail-service.md)
+   - [Assign Role for Task Detail Service to Business Users](s4h-cust-assign-role-business-user.md)
+   - [Set up destination for connection to SAP S4HANA](btp-create-destination-to-s4hana.md)
+   - [Check Status of Integration on the Task Center Administration App](check-status-s4hana-integration.md)
+   - [Test the Integration](test-the-integration.md)
+
 
 - **Outlook**
-    - [Integrate other SAP LoB solutions](integrate-with-other-lob-solutions.md)
-    - [Use SAP Task Center function on your Mobile Device](use-task-center-function-on-mobile-start.md)
 
-# Further Ressources
-- [Connect SAP S/4HANA and SAP Task Center - SAP Help Portal](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html?version=Cloud)
-- [System Integration Guide for SAP Cloud Identity Services and SAP Task Center - SAP Help Portal](https://help.sap.com/viewer/b95c3d5bab324a3a8409eee5267a5b75/Cloud/en-US/27947dfb325047018603446439050a6b.html?q=task%20center)
-- [SAP S/4HANA Integration Scenario - SAP Help Portal](https://help.sap.com/viewer/b95c3d5bab324a3a8409eee5267a5b75/Cloud/en-US/dc7ba639647d4ddaa88874eb7656dff1.html)
+    - [Integration with SAP solutions](integration-with-sap-solutions.md)
+    - [Learn how to manage your Workflows on your mobile device with SAP Mobile Start](integrate-task-center-with-mobile-start.md)

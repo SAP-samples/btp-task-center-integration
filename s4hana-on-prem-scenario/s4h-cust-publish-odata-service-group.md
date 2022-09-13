@@ -19,7 +19,6 @@ You publish the OData V4 service group on the back-end system that is necessary 
 
 7. Choose **Enter**.
 
-
 8. Select the entry and choose **Publish Service Groups**.
 
 ![Publish Service Group - Step4](images/s4h-gateway-service-publish-service-activation-step1.png)
@@ -50,3 +49,4 @@ The service groups are displayed in the menu under **Service Groups**.
 ℹ The path and settings might differ depending on your release version. Please check that you have selected the right version for [Publish OData V4 Service Group](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/f188a5ae7723424cabafbf3c80ce0c17.html?version=2021.002) in the SAP Help Portal documentation.
 
 ℹ Screenshot from SAP S/4HANA 2020 FPS02 system.
+

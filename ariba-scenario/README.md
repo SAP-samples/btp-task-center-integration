@@ -3,18 +3,24 @@
 This repository contains conten for the cards which are used in the SAP Discovery Center project board.
 
 - **Discover**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
-    - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
-   
+   - [Learn how to use missions and project boards in SAP Discovery Center](learn-how-missions-and-project-boards-in-dc.md)
+   - [SAP Task Center official documentation](sap-task-center-documentation.md)
 
 - **Prepare**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
-    - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
 
+   - [Check the commercial prerequisite for SAP Task Center](check-commercial-prereq-for-sap-task-center.md)
+   - [Learn about SAP Cloud Identity Services and the Global User ID](learn-about-sap-cloud-identity-services.md)
+   - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](sap-task-center-and-sap-cloud-identity-services.md)
+   - [Make sure that SAP Ariba and SAP Cloud Identity Services are connected](ariba-cloud-identity-integration.md)
+   - [Make sure you have created the proper SAP Ariba APIs before setup.](ariba-api.md)
+   - [Enabling your OAuth and APIs with SAP Ariba Support.](Enabling-your-OAuth-and-APIs-with-SAP-Ariba-Support.md)
+  
 - **Set Up**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
-    - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
+
+    - [Configure destinations for SAP Ariba in SAP BTP Sub Account](configure-btp-destination.md)
+    - [Test the integration from S/4HANA Cloud into SAP Task Center](testintegration.md)
 
 - **Outlook**
-    - [Step 1 ](https://github.com/SAP-samples/btp-task-center-integration)
-    - [Step 2 ](https://github.com/SAP-samples/btp-task-center-integration)
+
+    - [Integration with SAP solutions](integration-with-sap-solutions.md)
+    - [Learn how to manage your Workflows on your mobile device with SAP Mobile Start](integrate-task-center-with-mobile-start.md)

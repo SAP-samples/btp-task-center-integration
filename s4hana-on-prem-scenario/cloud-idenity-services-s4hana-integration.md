@@ -4,7 +4,9 @@ Make sure you have completed the SAP S/4HANA Cloud integration with Identity Aut
 
 As a prerequisite, you will need to have the SAP Cloud Connector installed and connect SAP S/4HANA as well as IAS and IPS to it.
 
+
 **Please follow the guides to ensure the proper integration between SAP S/4HANA and SAP Cloud Identity Services**
+
 
 [System Integration Guide for SAP Cloud Identity Service](https://help.sap.com/docs/SAP_CLOUD_IDENTITY/b95c3d5bab324a3a8409eee5267a5b75/dc7ba639647d4ddaa88874eb7656dff1.html)
 

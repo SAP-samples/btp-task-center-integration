@@ -11,9 +11,9 @@ For the setup of SAP Task Center, you must have a Cloud Connector that uses user
 
 * Make sure you save the following information, as you need it for the SAP S/4HANA destination setup:
 
+
     * **Location ID** from step Perform the initial configuration of the Cloud Connector and define location ID  
         *ℹ NOTE: Location ID is a mandatory property for the creation of the destination only if you have more than one Cloud Connectors in the subaccount.*
-
     * **Virtual Host** and **Virtual Port** from step Configure access control in the Cloud Connector for your SAP S/4HANA system
 
 * You have performed the steps in [SAP Task Center Integration](https://help.sap.com/viewer/0f18dddf28764f5b807ecd80549044cc/latest/en-US/1da230b82a984cda85d0041e13060a87.html) and have a user name and password for granting access to the task pull service, as described in [Create Service User for Task Pull Service](https://help.sap.com/viewer/0f18dddf28764f5b807ecd80549044cc/latest/en-US/229c5a1f659341efa2bb6205159d6209.html).
@@ -22,6 +22,7 @@ For the setup of SAP Task Center, you must have a Cloud Connector that uses user
 
 * You have the client number of your SAP S/4HANA system.
 
+
 ℹ Do not configure more than one destination to the same SAP S/4HANA system for one SAP Task Center. This will result in having duplicate tasks for end users 
 
 1. Navigate to the subaccount on SAP Business Technology Platform, where your SAP Task Center instance was created, and select the **Destinations** tab from the navigation area on the left.
@@ -29,6 +30,7 @@ For the setup of SAP Task Center, you must have a Cloud Connector that uses user
 2. If you have executed the automatic setup, you already have a sample destination called "S4HANA". You can use the sample destination or clone it, and update the properties as described below.
 
     If you have followed the manual setup (see [Manual Setup](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/0f00d3d3e2ab460c856d409c469fb4f1.html)), you have to create a new destination and manually add the properties as described below.
+
 
 3. Configure the properties of the destination as follows:
     
@@ -45,7 +47,8 @@ For the setup of SAP Task Center, you must have a Cloud Connector that uses user
     | **Location ID** | Provide the **Location ID** that you configured in the initial configuration of the SAP Cloud Connector. For more information, see *Prerequisites*. |
     
 
-    **Additonal Properties**:
+    **Addtional Properties**:
+
     
     | Property | Description | Example or Value
     |---|---|---

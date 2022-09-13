@@ -2,7 +2,8 @@
 
 Create an authorization role on your back-end system for granting access to the task detail service.
 
-1. Start transaction **PFCG**, and enter the name of the role (according to your naming conventions). Then choose **Role > Create Single Role** .
+
+1. Start transaction **PFCG** and enter the name of the role (according to your naming conventions). Then choose **Role > Create Single Role** .
 
 2. On the **Menu** tab, choose **Authorization Default** from the **Insert Node** menu.
 
@@ -21,5 +22,5 @@ Create an authorization role on your back-end system for granting access to the 
 
 9. **Save** and **generate** the role.
 
+<sup>i</sup> The path and settings might differ depending on your release version. Please check that you have selected the right version for [Create Role for Task Detail Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/fef6f08bd6f248f6a0c9d643b281709d.html?version=2021.002) in SAP Help Portal documentation.
 
-<sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Create Role for Task Detail Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/fef6f08bd6f248f6a0c9d643b281709d.html?version=2021.002) in SAP Help documentation.

@@ -35,7 +35,7 @@ Create an authorization role on your back-end system for granting access to the 
     
     ![PFCG - Step6](images/s4h-pfcg-create-role-step5.png)
 
+<sup>i</sup> The path and settings might differ depending on your release version. Please check that you have selected the right version for [Create Service User for Task Pull Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/229c5a1f659341efa2bb6205159d6209.html?version=2021.002) in the SAP Help Portal documentation.
 
-<sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Create Service User for Task Pull Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/229c5a1f659341efa2bb6205159d6209.html?version=2021.002) in SAP Help documentation.
+ℹ Screenshot from SAP S/4HANA 2020 FPS02 system.
 
-ℹ Screenhot from SAP S/4HANA 2020 FPS02 system.

@@ -4,7 +4,7 @@ Test your integration with the following steps:
 ![alt text](images/taskcreatorrights.png) 
 3. Access **Manage Purchase Order** application in SAP S/4HANA Cloud and create a new purchase order.
 
-![alt text](images/38.png)
+![alt text](images/image38.png)
 
 2. Log on as the respective task approver to SAP Task Center and choose the **Task Center** tile.
 

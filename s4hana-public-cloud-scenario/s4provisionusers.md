@@ -61,6 +61,9 @@ For a quick test, you can simply copy the **User UUID** field from Identity Auth
     * __ias.user.filter__: useName eq &lt;user created in Identity Authentication&gt;
 
 Note: User and Group filter is recommended for testing to restrict which users and groups will be read from SAP Cloud Identity Authentication Service and provisioned to SAP S/4HANA Cloud.
+
+![alt text](images/ipssource.png)
+
 ### Setup SAP S/4HANA Cloud as a target system in Identity Provisioning
 1. Access your Identity Provisioning tenant.
 2. Choose the **Target System** icon and choose **Add**.

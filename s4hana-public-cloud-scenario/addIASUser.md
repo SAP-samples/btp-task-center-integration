@@ -1,4 +1,5 @@
-he us
+In order to access SAP S/4HANA Cloud users must also be created in SAP Cloud Identity Authentication tenant used with SAP S/4HANA Cloud.  In addition, users can be assigned to groups in SAP Cloud Identity Authentication that map to roles in SAP S/4HANA Cloud.  As you will see in the upcoming card, this setup allows us to provision users to SAP S/4HANA Cloud and assign them business roles using SAP Cloud Identity Provisioning service.
+
 Procedure:
 
 1. Access your Identity Authentication admin console.

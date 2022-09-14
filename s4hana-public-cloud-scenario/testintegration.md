@@ -2,7 +2,7 @@ Test your integration with the following steps:
 
 1. Log into your SAP S/4HANA Cloud system as user who can can create puchase order approval tasks. The user will need a business role assigned that has the priviliges shown in the screenshot below.
 ![alt text](images/taskcreatorrights.png) 
-3. Access **Manage Purchase Order** application in SAP S/4HANA Cloud and create a new purchase order.
+3. Access **Manage Purchase Order** application in SAP S/4HANA Cloud and create a new purchase order.  Ensure the task is assigned to the approver user created earlier.
 
 ![alt text](images/image38.png)
 

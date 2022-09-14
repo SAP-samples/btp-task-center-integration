@@ -16,11 +16,13 @@ Note: These fields should match the user profile in S/4 HANA Cloud.  The login n
 5. Activate the user account by following the link sent in the email.
 6. Click **User Groups**.
 7. Click **Create**.
-8. Specify **Name** and **DisplayName** field for the group and click **Create**.  The group name must match the role created in S/4HANA Cloud.  In our case this is called "PURCHASE_ORDER_APPROVER".
+8. Specify **Name**, **DisplayName**, and **Description** fields for the group and click **Create**.  The group name must match the role created in S/4HANA Cloud.  In our case this is called "PURCHASE_ORDER_APPROVER".
 
 ![alt text](images/iascreategroup.png)
+
 9. Select the group you just created from the groups list.
 10. Click **Add**, select the "Approver" user created earlier and click **Save**.
 11. Confirm the user is added to the group.
+
 ![alt text](images/addusertogroup.png)
 

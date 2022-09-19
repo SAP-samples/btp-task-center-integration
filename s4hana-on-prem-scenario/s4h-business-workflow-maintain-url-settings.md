@@ -5,7 +5,9 @@ To process certain tasks the users must be able to navigate back from SAP Task C
 1. In the Implementation Guide (Transaction **SPRO**), choose *SAP Customizing Implementation Guide > ABAP Platform > Application Server  Business Management > SAP Business Workflow > Basic Settings (Workflow System). <sup>i</sup>*
 ![IMG Maintain URL](images/s4h-img-maintenance-url-settings.png)
 
-2. Execute the IMG activity Maintenance of URL Settings. The following parameters have to be configured: 
+
+2. Execute the IMG activity Maintenance of URL Settings. The following parameters must be configured: 
+
 
 | Parameter | Field | Remark
 | --- | ----------- |---|
@@ -20,7 +22,7 @@ To process certain tasks the users must be able to navigate back from SAP Task C
 
 *The configuration can be tested in this activity. The test can only be performed in display mode, as this is only possible for saved data.  The test UI displays the URL if a configuration has been saved and the work item exists in the system. You can test the URL by double-clicking it or copying it to the address bar in the browser.*
 
+<sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Maintain URL Settings](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/bb442e2c95ca4aad8285b214265b2ef0.html?version=2021.002) in the SAP Help Portal documentation. 
 
-<sup>i</sup> The parth and settings might differ depending on your release version. Please check that you have selected the right version for [Maintain URL Settings](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/bb442e2c95ca4aad8285b214265b2ef0.html?version=2021.002) in SAP Help documentation. 
+ℹ Screenshot from SAP S/4HANA 2020 FPS02 system.
 
-ℹ Screenhot from SAP S/4HANA 2020 FPS02 system.

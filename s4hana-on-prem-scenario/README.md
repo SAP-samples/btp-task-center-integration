@@ -1,4 +1,5 @@
-## SAP S/4HANA OnPremise 
+
+## SAP S/4HANA Integration with SAP Task Center
 
 This repository contains conten for the cards which are used in the SAP Discovery Center project board.
 

@@ -21,7 +21,7 @@ Here is an overview of the missions, related to SAP Task Center:
 
 ### SAP BTP Solution Diagram
 
-<img src="docs/pics/sap_btp_taskcenter_solution_diagram.png" width="750">
+<img src="docs/pics/btp_taskcenter_hl_scenario.png" width="750">
 
 ## Requirements
 To start with the setup of SAP Task Center, you must have completed the prerequisites in [Automatic Setup](https://help.sap.com/viewer/08cbda59b4954e93abb2ec85f1db399d/Cloud/en-US/3a499676e7ae4282af84092f778e3737.html) (or [Manual Setup](https://help.sap.com/viewer/08cbda59b4954e93abb2ec85f1db399d/Cloud/en-US/0f00d3d3e2ab460c856d409c469fb4f1.html), if you prefer to set up SAP Task Center manually). 

@@ -1,6 +1,6 @@
 1. Navigate to the Cloud Foundry subaccount, where your SAP Task Center instance was created, and select the **Connectivity** > **Destinations** tab from the navigation area on the left.  
 2. Under **Destinations**, select **Fieldglass** destination that is created when you run the booster to setup Task Center.  
-![Configure BTP Destinations 1](images/D1.png)
+  ![Configure BTP Destinations 1](images/D1.png)
 3. Edit the pre-created destination and update the properties below:  
    * __URL__: https://<**Your Fieldglass Tenant URL**>/api/v1.
    * __Audience__: The Audience is used to construct the SAML assertion. For Example: **Fieldglass**.
@@ -14,7 +14,7 @@
       * __tokenServiceURL.queries.client_id__: Add the **Client ID** value located on the View Application Keys page in SAP Fieldglass Configuration Manager.
       * __tokenServiceURL.queries.client_secret__: Add the **Client Secret** value located on the View Application Keys page in SAP Fieldglass Configuration Manager.
       * __URL.headers.X-ApplicationKey__: Add the **API Application Key** value located on the View Application Keys page in SAP Fieldglass Configu-ration Manager. This value is used when making calls to the URL in this destination.  
-![Configure BTP Destinations 2](images/D2.png)
+  ![Configure BTP Destinations 2](images/D2.png)
 4. Select the **Use default JDK truststore** checkbox.  
 5. Confirm that your setup looks similar to that in the screenshot and **Save** your configuration.  
 

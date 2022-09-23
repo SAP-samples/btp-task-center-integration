@@ -7,7 +7,7 @@ You've contacted SAP Fieldglass support to have `SAP_TASK_PUSH_CAPABILITY` in Co
 
 ## Procedure
 1. Sign into Configuration Manager and under **Integration Tools**, choose **Manage SAP Task Center**. The SAP Task Center page opens.  
-![Push Task 1](images/M1.png)  
+ ![Push Task 1](images/M1.png)  
 >**Note**
 >If you get an error stating the push capability is disabled, refer to the first Prerequisites for resolution. Once the capability is enabled and cache is refreshed, you can proceed.
 
@@ -17,6 +17,6 @@ You've contacted SAP Fieldglass support to have `SAP_TASK_PUSH_CAPABILITY` in Co
   * __Client ID__: Copy the `uaa > clientid` attribute value from the prerequisites section.
   * __Client Secret__: Copy the `uaa > clientsecret` attribute value from the prerequisites section.
   * __Destination URL__: Copy the `endpoints > inbox_rest_url` attribute value from the prerequisites section. For example, `https://api.one-inbox-service-sap.cfapps.sap.hana.ondemand.com/task-center-service`.  
-![Push Task 2](images/M2.png)  
+ ![Push Task 2](images/M2.png)  
 4. Choose **Save**. The values are saved in the **Authentication** section on the SAP Task Center page. The push capability in now enabled.  
-![Push Task 3](images/M3.png)
+ ![Push Task 3](images/M3.png)

@@ -10,4 +10,5 @@ Here are the steps to enable **SAP Mobile Start** from SAP Task Center's Web app
     * As a next step, clikc on the 
     'Regoster' tab and scan the QR code to register the mobile application
 
-[How to enable SAP Mobile Start](images/enable_mobile_start.png)
+![How to enable SAP Mobile Start](images/enable_mobile_start.png)
+

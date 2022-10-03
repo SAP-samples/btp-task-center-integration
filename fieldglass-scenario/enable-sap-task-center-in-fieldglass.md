@@ -1,4 +1,4 @@
-1. Download the **SAML 2.0 metadata** file from the Administration Console of Identity Authentication service or use the URL `https://<Identity_Authentication_tenant>.accounts.ondemand.com/saml2/metadata`  
+1. Download the **SAML 2.0 metadata** file from the Administration Console of Identity Authentication service or use the URL `https://<Identity_Authentication_tenant>.accounts.ondemand.com/saml2/metadata`.  
   ![Enable SAP Task Center 1](images/S1.png)
 2. Go to SAP Fieldglass and choose the **Configuration Manager** user.  
   ![Enable SAP Task Center 2](images/S2.png)

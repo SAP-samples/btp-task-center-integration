@@ -12,7 +12,7 @@ If you don’t have a global account in SAP BTP and want to get started using th
 Take a look at this [blog](https://blogs.sap.com/2021/11/16/btp-free-trial-to-free-tier-its-a-good-time-to-switch/) or complete [this tutorial](https://developers.sap.com/tutorials/btp-free-tier-account.html) to get more insights on the sign up process.
 
 
- ## Pay-As-You-Go for SAP BTP
+## Pay-As-You-Go for SAP BTP
 
 Sign up to start using cloud services in your production environment with no upfront cost, no minimum usage requirements, and no financial commitments.
 

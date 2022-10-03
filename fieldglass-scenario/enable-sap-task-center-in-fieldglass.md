@@ -8,7 +8,7 @@
   ![Enable SAP Task Center 4](images/S4.png)
 5. In the **Identity Provider Details** section, choose the **Upload** button to upload the client's metadata file using the **Identity Provider Metadata Import** tool.  
   ![Enable SAP Task Center 5](images/S5.png)
- ![Enable SAP Task Center 6](images/S6.png)
+![Enable SAP Task Center 6](images/S6.png)
 6. Choose **Attribute** as the **SAML Identity Location**, in the **Attribute Name** text box, type `sap_uid`, and choose **Next**.  
   ![Enable SAP Task Center 7](images/S7.png)
 7. In the **Service Provider Details** section, choose **Yes** for the **Enable Deep Linking In Notifications?** property, and choose **Next**.  

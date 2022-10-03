@@ -21,19 +21,19 @@
   ![Enable SAP Task Center 11](images/S11.png)
 11. Enter the **name** of your SAP Fieldglass tenant and choose **SAP Fieldglass solution** as the type of your application.  
   ![Enable SAP Task Center 12](images/S12.png)
-12. Choose **SAML 2.0 Configuration**.
+12. Choose **SAML 2.0 Configuration**.  
   ![Enable SAP Task Center 13](images/S13.png)
-13. Choose **Browse** to upload SAP Fieldglass metadata. 
+13. Choose **Browse** to upload SAP Fieldglass metadata.  
   ![Enable SAP Task Center 14](images/S14.png)
 14. **Save** the configuration.  
   ![Enable SAP Task Center 15](images/S15.png)
 15. Choose **Subject Name Identifier**.  
   ![Enable SAP Task Center 16](images/S16.png)
-16. Select **User UUID** as a basic attribute and **save**.
+16. Select **User UUID** as a basic attribute and **save**.  
   ![Enable SAP Task Center 17](images/S17.png)
-17. Choose **Assertion Attributes**.
+17. Choose **Assertion Attributes**.  
   ![Enable SAP Task Center 18](images/S18.png)
-18. Modify the **User UUID** mapping to be **sap_uid** and **save**.
+18. Modify the **User UUID** mapping to be **sap_uid** and **save**.  
   ![Enable SAP Task Center 19](images/S19.png)
 19. Contact SAP Fieldglass Customer Support at [https://www.fieldglass.com/customer-support](https://www.fieldglass.com/customer-support) to request assistance with enabling the custom script `sso.sapid2uname` for the company. 
 

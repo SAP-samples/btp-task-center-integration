@@ -46,7 +46,7 @@ The service groups are displayed in the menu under **Service Groups**.
     ![Test Connection - Setp 2](images/s4h-gateway-service-publish-service-test-step2.png)
 
 
-ℹ The path and settings might differ depending on your release version. Please check that you have selected the right version for [Publish OData V4 Service Group](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/f188a5ae7723424cabafbf3c80ce0c17.html?version=2021.002) in the SAP Help Portal documentation.
+ℹ The path and settings might differ depending on your SAP S/4HANA release version. Please check that you have selected the right version for [Publish OData V4 Service Group](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/f188a5ae7723424cabafbf3c80ce0c17.html?version=2021.002) in the SAP Help Portal documentation.
 
 ℹ Screenshot from SAP S/4HANA 2020 FPS02 system.
 

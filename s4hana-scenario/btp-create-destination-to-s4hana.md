@@ -63,6 +63,7 @@ For the setup of SAP Task Center, you must have a Cloud Connector that uses user
 
 ![BTP destination set up](images/btp_s4h_destination.png)
 
-> ℹ If you choose **Check Connection** in the destination configuration, you may not receive correct information about the connectivity between the SAP Task Center service and SAP S/4HANA 
+> ℹ In case you are using **SAP S/4HANA Cloud, private edition** the integration has to be enabled. Therefore open a ticket through the SAP Support Portal, using the LOD-BPM-INB component. Use "SAP S/4HANA Cloud, Private Edition Verification" as subject of the ticket, provide the name of the destination you just created and your subaccount tenant ID, and ask the SAP colleagues to enable your destination. Refer also to [Connect SAP S/4HANA Cloud, Private Edition and SAP Task Center](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/50ce13335bb4404cb0eddebb37de0855.html?version=Cloud)
 
+> ℹ If you choose **Check Connection** in the destination configuration, you may not receive correct information about the connectivity between the SAP Task Center service and SAP S/4HANA
 

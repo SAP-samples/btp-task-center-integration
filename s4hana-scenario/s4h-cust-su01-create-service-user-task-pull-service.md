@@ -21,7 +21,7 @@ Create a service user for granting access to the task pull service.
 > ⚠ Remember the user name and password to be used with your configuration of the destination on SAP Business Technology Platform.
 
 
-ℹ The path and settings might differ depending on your release version. Please check that you have selected the right version for [Create Service User for Task Pull Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/229c5a1f659341efa2bb6205159d6209.html?version=2021.002) in the SAP Help Portal documentation.
+ℹ The path and settings might differ depending on your SAP S/4HANA release version. Please check that you have selected the right version for [Create Service User for Task Pull Service](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/229c5a1f659341efa2bb6205159d6209.html?version=2021.002) in the SAP Help Portal documentation.
 
 ℹ Screenshot from SAP S/4HANA 2020 FPS02 system.
 

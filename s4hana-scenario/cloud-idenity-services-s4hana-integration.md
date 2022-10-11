@@ -2,7 +2,8 @@
 
 Make sure you have completed the SAP S/4HANA Cloud integration with Identity Authentication Service (IAS) and Identity Provisioning Services (IPS). This integration prepares all business users for access to SAP Task Center. 
 
-As a prerequisite, you will need to have the SAP Cloud Connector installed and connect SAP S/4HANA as well as IAS and IPS to it.
+As a prerequisite, you will need to have the SAP Cloud Connector installed and connect SAP S/4HANA as well as Identity Authentification Service and Identity Provisioning Service to it.
+Furthermore, principal propagation has to be set up for this scenario.
 
 
 **Please follow the guides to ensure the proper integration between SAP S/4HANA and SAP Cloud Identity Services**

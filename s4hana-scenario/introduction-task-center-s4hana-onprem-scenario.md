@@ -14,7 +14,7 @@ Before enabling the integration scenario between SAP S/4HANA and SAP Task Center
 * Please check that the administrator setting up the integration to SAP Task Center must have the permissions in SAP S/4HANA to perform the configuration steps mention here: [Configuring SAP Task Center Integration](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/5117f21ef28f4e698d99fe3fdbc1be2a.html?version=latest)
 ### Connect SAP S/4HANA and SAP Task Center
 
-In general this mission is based on the SAP Help Portal documentation [Connect SAP S/4HANA and SAP Task Center](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html)
+In general this mission is based on the SAP Help Portal documentation [Connect SAP S/4HANA and SAP Task Center](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html) and [Connect SAP S/4HANA Cloud, Private Edition and SAP Task Center](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/50ce13335bb4404cb0eddebb37de0855.html?version=Cloud)
 
 **! Please pay attention to always select the version applicable to your SAP S/4HANA system in the SAP Help Portal documentation!**
 

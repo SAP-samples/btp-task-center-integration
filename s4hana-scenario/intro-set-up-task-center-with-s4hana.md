@@ -3,7 +3,7 @@
 1. Configure and enable the communication between your SAP S/4HANA system (ABAP system) and SAP Task Center. Therefore some configuration steps need to be done in your SAP S/4HANA system. In the **Implementation Guide**, choose *SAP Customizing Implementation Guide > ABAP Platform  Application Server  Business Management > SAP Business Technology Platform > Integration  SAP Task Center Integration.<sup>i</sup>*  
 ![SAP S/4HANA IMG config](images/s4h-img-tree.png)
 
-2. In the BTP subaccount where SAP Task Center is enabled, configure a destination used for task retrieval for the SAP S/4HANA sytem. 
+2. In the SAP BTP subaccount where SAP Task Center is enabled, configure a destination used for task retrieval for the SAP S/4HANA sytem. 
 
 **Check** the prerequisites section of [Connect SAP S/4HANA and SAP Task Center
 ](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/143af9bb452f4aa5a9980035d9edee5b.html)

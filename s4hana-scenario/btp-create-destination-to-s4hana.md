@@ -4,6 +4,8 @@ Find information about the destination configuration that needs to be done for S
 
 ### Prerequisites
 
+* You have set up principal propagation to your SAP S/4HANA system in order to utilize Single-Sign-On for the end user accessing the task in SAP Task Center. (e.g. you can also refer to this blog for setting up principal propagation:  https://blogs.sap.com/2021/09/06/setting-up-principal-propagation/)
+
 * You have performed the steps in [Prepare SAP Cloud Connector and SAP S/4HANA](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/5c6cf3d9e754468fbd6b3f5073fe085f.html?version=latest) for the SAP Task Center Connection. *Choose your SAP S/4HANA version from the dropdown menu next to the documentation title*.
 
 > ⚠ Caution -

@@ -24,6 +24,7 @@
 ![update_destination_2](images/update_destination_2.png)
 
 Testing the connection may not provide the correct information about the connectivity to your SAP Concur System.
-For details of the other properties or for full details for manually creating the destinations, consult the help documentation link here: 
-https://help.sap.com/viewer/DRAFT/ba03bf8dad8f42678adfb0c4935b9980/Internal/en-US/f354ef9cab4641219fd849102d1b5b0c.html 
+
+For details of the other properties or for full details for manually creating the destinations, consult the help documentation titled [Connect SAP Concur and SAP Task Center](https://help.sap.com/docs/TASK_CENTER/ba03bf8dad8f42678adfb0c4935b9980/f354ef9cab4641219fd849102d1b5b0c.html?state=DRAFT) 
+
 

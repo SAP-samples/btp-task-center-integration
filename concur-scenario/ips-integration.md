@@ -88,7 +88,7 @@ To set up user provisioning to SAP Concur you need to:
 SAP Concur Entity as an
 IdP Target](https://www.concurtraining.com/customers/tech_pubs/Docs/_Current/SG_Shr/Shr_SG_Concur_IdP_Target.pdf) to generate an SAP Concur company request token for SAP Cloud Idenitty Services - Identity Provisioning (IPS).
 
-2.  Save the values generated in SAP Concur for **Company UUID** and **Company Request** token, which you will later use for the *SAP Concur* target system configuration in the IPS admin console.
+2.  Save the values generated in SAP Concur for **Company UUID** and **Company Request Token**, which you will later use for the *SAP Concur* target system configuration in the IPS admin console.
 
 > ![ips_integration_10](images/ips_integration_10.png)
 

@@ -10,7 +10,7 @@
    * __URL__: Your Concur Data Center API URL> for example https://us.api.concursolutions.com/expensereports
     datacenter_base_URI/expensereports for Expense or datacenter_base_URI/travelrequest for Requests)
    * __Client Key__: Company Request Token obtained in SAP Concur
-   * __Token Service URL__: Your Concur Token Service URL> for example https://us.api.concursolutions.com/oauth2/v0/token (in the format datacenter_base_URI/oauth2/v0/token
+   * __Token Service URL__: Your Concur Token Service URL for example https://us.api.concursolutions.com/oauth2/v0/token (in the format datacenter_base_URI/oauth2/v0/token
    * __Token Service User__: Company UUID Obtained in SAP Concur
    * __Token Service Password__: Company Request Token obtained in SAP Concur
    * __Additional Properties__:

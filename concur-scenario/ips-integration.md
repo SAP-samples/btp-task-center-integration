@@ -9,11 +9,9 @@ the User UUID from IAS
 
 To set up user provisioning to SAP Concur you need to:
 
--   Create an API user in IAS
+-   Add a System User to IAS
 
--   Add Source System IAS in IPS
-
--   Create an API user in SAP Concur
+-   Create a Source System IAS in IPS
 
 -   Create Company Request Token in SAP Concur
 
@@ -78,39 +76,23 @@ User = \<System User\>
 5.  Click **Save**.
 
 6.  Your configured properties should look something like the screenshot
-    below. Note that I have used a filter to just provision my test
+    below. Note that I have used a filter to just provision a test
     user. You will need to add or adapt user and group filters to suit
     your needs.
 
 ![ips_integration_7](images/ips_integration_7.png)
 
-## Create Integration Key in SAP Concur
+## Create Company Request Token in SAP Concur
 
-1.  In your SAP Concur system, open **Administration \>\> Company \>\>
-    Authentication Administration \>\> Company Request Token**.
+1.  Follow the setps in the [Concur Documentation, Shared: Configure an
+SAP Concur Entity as an
+IdP Target](https://www.concurtraining.com/customers/tech_pubs/Docs/_Current/SG_Shr/Shr_SG_Concur_IdP_Target.pdf) to generate an SAP Concur company request token for SAP Cloud Idenitty Services - Identity Provisioning (IPS).
 
-> ![ips_integration_8](images/ips_integration_8.png)
-
-2.  In the **App ID** field, enter the IPS App ID: 
-     **5bea7d57-6bc5-45ba-b5cf-91f04940fbf2**
-
-> ![ips_integration_9](images/ips_integration_9.png)
-
-3.  Click **Submit**.
-
-4.  A popup is displayed with two values:
-
-    -   **Company UUID**
-
-    -   **Company Request Token**
+2.  Save the values generated in SAP Concur for **Company UUID** and **Company Request** token, which you will later use for the *SAP Concur* target system configuration in the IPS admin console.
 
 > ![ips_integration_10](images/ips_integration_10.png)
 
-5.  Save both the **Company UUID** and **Company Request** token, which
-    you will later use for the *SAP Concur* target system configuration
-    in the IPS admin console.
-
-6.  **Note: **The token must be entered into the IPS connector
+3.  **Note: **The token must be entered into the IPS connector
     configuration within 24 hours. Otherwise, it will expire, and
     you\'ll have to request a new token.
 
@@ -155,6 +137,8 @@ User = \<System User\>
 ![ips_integration_12](images/ips_integration_12.png)
 
 7.  Leave the transformations unchanged.
+   
+8.  For further information on the IPS transformations for SAP Concur, refer to (SAP Cloud Identity Services - Identity Provisioning, Target Systems, SAP Concur) [https://help.sap.com/docs/IDENTITY_PROVISIONING/f48e822d6d484fa5ade7dda78b64d9f5/032fd80fd7de4e4992402637b77c1f2c.html]
 
 ## Run the Provisioning Job
 

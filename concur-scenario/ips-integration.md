@@ -55,23 +55,23 @@ To set up user provisioning to SAP Concur you need to:
 4.  Leave the defaulted properties as they are and add the add the
     following properties:
 
-Authentication = BasicAuthentication
+-   **Authentication**: BasicAuthentication
 
-ias.user.filter = username eq \"DEMO\" (optional)
+-   **ias.user.filter**: username eq \"DEMO\" (optional)
 
-ias.group.filter displayName eq \"BR_DEMO\" (optional)
+-   **ias.group.filter**:  displayName eq \"BR_DEMO\" (optional)
 
-ips.trace.failed.entity.content = false
+-   **ips.trace.failed.entity.content**: false
 
-Password = \<Password for System User\>
+-   **Password**: \<Password for System User\>
 
-ProxyType = Internet
+-   **ProxyType**: Internet
 
-Type = HTTP
+-   **Type**: HTTP
 
-URL = \<IAS Tenant URL\>
+-   **URL**:  \<IAS Tenant URL\>
 
-User = \<System User\>
+-   **User**:  \<System User\>
 
 5.  Click **Save**.
 
@@ -84,7 +84,7 @@ User = \<System User\>
 
 ## Create Company Request Token in SAP Concur
 
-1.  Follow the setps in the [Concur Documentation, Shared: Configure an
+1.  Follow the steps in the [SAP Concur Documentation, Shared: Configure an
 SAP Concur Entity as an
 IdP Target](https://www.concurtraining.com/customers/tech_pubs/Docs/_Current/SG_Shr/Shr_SG_Concur_IdP_Target.pdf) to generate an SAP Concur company request token for SAP Cloud Idenitty Services - Identity Provisioning (IPS).
 
@@ -114,21 +114,21 @@ IdP Target](https://www.concurtraining.com/customers/tech_pubs/Docs/_Current/SG_
 5.  Add the following properties and leave the existing pre-generated
     properties unchanged:
 
-    -   Type = HTTP
+    -   **Type**: HTTP
 
-    -   ProxyType = Internet
+    -   **ProxyType**: Internet
 
-    -   Authentication = BasicAuthentication
+    -   **Authentication**: BasicAuthentication
 
-    -   concur.datacenter = \<Your SAP Concur Datacenter\> eg us1
+    -   **concur.datacenter**: \<Your SAP Concur Datacenter\> eg us1
 
-    -   concur.companyId = \<Your Concur Company UUID\> (obtained when
+    -   **concur.companyId**: \<Your Concur Company UUID\> (obtained when
         generating Company Request Token in SAP Concur)
 
-    -   concur.authorization.code \<Token obtained when generating
+    -   **concur.authorization.code**: \<Token obtained when generating
         Company Request Token in SAP Concur)
 
-    -   concur.company.domain = \<Your SAP Concur Company Domain\> (the
+    -   **concur.company.domain**: \<Your SAP Concur Company Domain\> (the
         portion after the @ symbol in your SAP Concur Logon Name).
 
 6.  Click **Save**. Your target system properties should look something
@@ -138,7 +138,7 @@ IdP Target](https://www.concurtraining.com/customers/tech_pubs/Docs/_Current/SG_
 
 7.  Leave the transformations unchanged.
    
-8.  For further information on the IPS transformations for SAP Concur, refer to (SAP Cloud Identity Services - Identity Provisioning, Target Systems, SAP Concur) [https://help.sap.com/docs/IDENTITY_PROVISIONING/f48e822d6d484fa5ade7dda78b64d9f5/032fd80fd7de4e4992402637b77c1f2c.html]
+8.  For further information on the IPS transformations for SAP Concur, refer to [SAP Cloud Identity Services - Identity Provisioning, Target Systems, SAP Concur](https://help.sap.com/docs/IDENTITY_PROVISIONING/f48e822d6d484fa5ade7dda78b64d9f5/032fd80fd7de4e4992402637b77c1f2c.html)
 
 ## Run the Provisioning Job
 

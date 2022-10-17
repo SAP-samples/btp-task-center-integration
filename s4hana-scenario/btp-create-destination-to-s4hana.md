@@ -1,6 +1,6 @@
 ## Connect SAP S/4HANA and SAP Task Center
 
-Find information about the destination configuration that needs to be done for SAP Task Center in order to work with on-premise tasks from SAP S/4HANA on SAP BTP, Cloud Foundry environment.
+Find information about the destination configuration that needs to be done for SAP Task Center in order to work with tasks from SAP S/4HANA on SAP BTP, Cloud Foundry environment.
 
 ### Prerequisites
 

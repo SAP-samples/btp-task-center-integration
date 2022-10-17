@@ -63,15 +63,15 @@ To set up user provisioning to SAP Concur you need to:
 
 -   **ips.trace.failed.entity.content**: false
 
--   **Password**: \<Password for System User\>
+-   **Password**: Password for System User
 
 -   **ProxyType**: Internet
 
 -   **Type**: HTTP
 
--   **URL**:  \<IAS Tenant URL\>
+-   **URL**:  IAS Tenant URL
 
--   **User**:  \<System User\>
+-   **User**:  System User
 
 5.  Click **Save**.
 
@@ -122,15 +122,15 @@ IdP Target](https://www.concurtraining.com/customers/tech_pubs/Docs/_Current/SG_
 
     -   **Authentication**: BasicAuthentication
 
-    -   **concur.datacenter**: \<Your SAP Concur Datacenter\> eg us1
+    -   **concur.datacenter**: Your SAP Concur Datacenter eg us1
 
-    -   **concur.companyId**: \<Your Concur Company UUID\> (obtained when
+    -   **concur.companyId**: Your Concur Company UUID (obtained when
         generating Company Request Token in SAP Concur)
 
-    -   **concur.authorization.code**: \<Token obtained when generating
+    -   **concur.authorization.code**: Token obtained when generating
         Company Request Token in SAP Concur)
 
-    -   **concur.company.domain**: \<Your SAP Concur Company Domain\> (the
+    -   **concur.company.domain**: Your SAP Concur Company Domain (the
         portion after the @ symbol in your SAP Concur Logon Name).
 
 6.  Click **Save**. Your target system properties should look something

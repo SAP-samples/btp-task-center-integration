@@ -40,7 +40,7 @@ In this section, you finish the integration of SAP Task Center with SAP Launchpa
 
 10. In the Content Manager, assign Task Center to the existing everyone role.
 
-[assign app to everyone role](images/btp_assign_app_2_role.png)
+![assign app to everyone role](images/btp_assign_app_2_role.png)
 
 Alternatively, create a new role. For more information, see [Assign Content to a Role](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/baeaf6ee364e48ac95dc09470281f174.html).
 

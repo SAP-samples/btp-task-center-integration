@@ -2,7 +2,7 @@ Learn more about the services used in this mission:
 
 **SAPUI5**
 
-![](UI5.png)
+![adding sap launchpad](images/UI5.png)
 
 SAPUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications.
 

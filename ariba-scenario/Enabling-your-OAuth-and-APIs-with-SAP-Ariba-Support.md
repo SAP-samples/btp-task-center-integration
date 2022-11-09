@@ -6,7 +6,7 @@ On the SAP Ariba Developer Portal create an application for each SAP Ariba produ
 
  b. Save the application key for each created application.
 
- c. Once your applications are created, locate the URL for the application. Format example is - https://openapi.ariba.com/api/procurement-task-provider/v2/prod
+ c. Once your applications are created, locate the URL for the application. Format example is - <div style="display: inline">https://openapi.ariba.com/api/procurement-task-provider/v2/prod</div>
  
 The Token Service URL is the same for both SAP Ariba Buying and SAP Ariba Sourcing. Example for US data center - https://api.ariba.com/v2/oauth/token
 

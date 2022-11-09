@@ -1,6 +1,6 @@
 ## Prerequisite
 
-SAP Task Center is available using Free Tier, Cloud Platform Enterprise Agreement (**CPEA**) and Pay-As-You-Go. Please ensure that your SAP Business Technology Platform account belongs to one of these commercial models.
+SAP Task Center is available using Free Tier, Cloud Platform Enterprise Agreement (**CPEA**) and Pay-As-You-Go. Please ensure that your SAP Business Technology Platform (BTP) account belongs to one of these commercial models.
 
 
 ## Get Started with Free Tier

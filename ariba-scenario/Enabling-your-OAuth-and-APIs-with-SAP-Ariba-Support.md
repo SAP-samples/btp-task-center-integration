@@ -16,8 +16,8 @@ The Token Service URL is the same for both SAP Ariba Buying and SAP Ariba S
    - Realm name
    - The data center where your SAP Ariba realm resides
 
- e. To request IDP registration on the SAP Ariba OAuth, provide the following information to SAP Ariba Technical Support:
-   - Your SAP Ariba realm name or customer site name (see Prerequisites)
+ e. To request IDP registration on SAP Ariba OAuth, provide the following information to SAP Ariba Technical Support:
+   - Your SAP Ariba realm name or customer site name
    - Entity Identifier (entityID) in the SAML assertion request
      The entityID is sent by the destination service and must be in the following format:
      cfapps.${S1_LANDSCAPE_DOMAIN}/${S1_SUBACCOUNT_ID}.
@@ -26,9 +26,5 @@ The Token Service URL is the same for both SAP Ariba Buying and SAP Ariba S
    - The destination service certificate
      To get the destination service certificate, log on to your Cloud Foundry subaccount, select the Destinations tab from the navigation area on the left, and choose Download Trust to download the destination service certificate.
 
-     Caution
-     Make sure to renew you trust certificate before it expires. For the time while you are renewing the trust certificate and updating it on the task provider systems you may not be able to work on tasks, nor receive task updates.
-     For more information, see [Renew Destination Trust Certificates](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/8080abf7d2cf4918802aa86e955ffc8b.html#renew-destination-trust-certificates).
-
    - Your Ariba Network ID (ANID or NetworkId)
-     You can find it in your Company Profile. For more information, see [SAP Ariba Glossary](https://help.sap.com/docs/SAP_Ariba/19025eff298741f78ecfff03d35e9331/a784eae0f6864284959945a77caef3dc.html?locale=en-US) and [How to specify your company profile information](https://help.sap.com/docs/ARIBA_NETWORK/5c0bdb0caa3042a288b3a1fb83b2fb1e/dd7e8953f0181014846b9461fdc68461.html?locale=en-US).
+     You can find you Ariba Netowrk ID your Company Profile. For more information, see [SAP Ariba Glossary](https://help.sap.com/docs/SAP_Ariba/19025eff298741f78ecfff03d35e9331/a784eae0f6864284959945a77caef3dc.html?locale=en-US) and [How to specify your company profile information](https://help.sap.com/docs/ARIBA_NETWORK/5c0bdb0caa3042a288b3a1fb83b2fb1e/dd7e8953f0181014846b9461fdc68461.html?locale=en-US).

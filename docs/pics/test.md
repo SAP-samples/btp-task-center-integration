@@ -3,6 +3,7 @@ Learn more about the services used in this mission:
 **SAPUI5**
 
 ![](UI5.png)
+![](https://github.com/SAP-samples/teched2022-XP160/blob/main/exercises/images/UI5.png)
 
 SAPUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications.
 

@@ -17,8 +17,8 @@ Here is an overview of the missions, related to SAP Task Center:
 - SAP Task Center Integration with SAP S/4HANA [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/index.html#/missiondetail/3910/)
 - SAP Task Center Integration with SAP Fieldglass [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/index.html#/missiondetail/3911/)
 - SAP Task Center Integration with SAP Concur (not supported yet)
-- SAP Task Center Integration with SAP Ariba [(link to SAP Discovery Center mission)]()
-- SAP Task Center Integration with SAP Process Automation [(link to SAP Discovery Center mission)]()
+- SAP Task Center Integration with SAP Ariba (comming soon)
+- SAP Task Center Integration with SAP Process Automation (comming soon)
 
 ### SAP BTP Solution Diagram
 

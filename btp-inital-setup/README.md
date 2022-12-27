@@ -13,10 +13,8 @@ This repository contains conten for the cards which are used in the SAP Discover
 - **Prepare**
 
     - [Check the commercial prerequisite for SAP Task Center](check-commercial-prereq-for-sap-task-center.md)
-    - [Run the BTP booster to create a subaccount](run-booster-to-create-subaccount.md)
-    - [Create subaccounts manually](create-subaccount-manually.md)
+    - [Understand and implement the Global User ID concept with support of SAP Cloud Identity Services](learn-about-sap-cloud-identity-services.md)
     - [Check the availability of the required SAP BTP services](create-subaccount-manually.md)
-    - [Appendix: Use Command Line Interface to manage SAP BTP](btp_cli.md)
 
 - **Set Up**
 

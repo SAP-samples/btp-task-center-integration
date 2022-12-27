@@ -16,7 +16,7 @@ This repository contains conten for the cards which are used in the SAP Discover
 
 - **Set Up**
 
-   - [Manage SAP Task Center to Enable Push of Task Updates](manage-sap-task-center-to-enable-push-of-task-updates)
+   - [Manage SAP Task Center to Enable Push of Task Updates](manage-sap-task-center-to-enable-push-of-task-updates.md)
    - [Configure destinations for SAP Fieldglass in SAP BTP subaccount](sap-task-center-and-sap-cloud-identity-services.md)
   - [Test the integration](test.md)
 

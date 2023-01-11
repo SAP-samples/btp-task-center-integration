@@ -4,7 +4,7 @@ To complete the SAP Task Center and Concur integration, follow the guide, [Share
 
 The guide details the prerequisites and configuration steps needed. 
 
-1.  Note that the SAP Concur Company Request Token required for SAP Concur and SAP Task Center integration is different from the one used for integration with SAP Cloud Identity Services - Identity Provisioning and the App ID specified in this guide is for SAP Task Center only.
+1.  Note that the SAP Concur Company Request Token required for SAP Concur and SAP Task Center integration is different from the one used for integration with SAP Cloud Identity Services - Identity Provisioning and the App IDs specified in this guide are for SAP Task Center only.
 
 ![concur_configuration_3](images/concur_configuration_3.png)
 

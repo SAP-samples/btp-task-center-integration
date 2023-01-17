@@ -26,12 +26,12 @@ Ensure that the following prerequisites are met:
 ## Procedure
 
 1. From the navigation menu, choose Boosters to display a list of the available **boosters**.
-2. Search for the **Set up account for SAP Task Center** booster.
-![btp booster procedure](images/btp_booster_procedure.png)
+2. Search for the **Set up an account for SAP Task Center with SAP Build Work Zone, standard edition** booster.
+![btp booster procedure](images/btp_booster.png)
 3. To enter the booster, choose Start.
 ![btp booster start](images/btp_booster_start.png)
 
-In the following steps, the booster validates the prerequisites and informs you if something is missing, for example, the Identity Authentication trust setup with the subaccount.
+In the following steps, the booster validates the prerequisites and informs you if entitlements are missing:
 
 ![check](images/btp_booster_validation_prereq.png)
 

@@ -43,13 +43,10 @@ Ensure that the following prerequisites are met:
     In the next step please define which platform IdP is used (in our example we choose the default "accounts.sap.com") and which users from the "custom IAS" will be assigned to which role collection(s):
 
     ![check](images/btp_booster_idp_rc_assignemnet.png)
-    
-    Finally you can review the configuration and start the execution of the BTP Booster
-    If all prerequisites are met, no error is shown:
+
+4. In the **Review** step, you can review the configuration and start the execution of the BTP Booster:
 
     ![check](images/btp_booster_review.png)
-
-4. In the **Review** step, you can review your entries.
 
 5. The booster displays its progress in a popup.
 

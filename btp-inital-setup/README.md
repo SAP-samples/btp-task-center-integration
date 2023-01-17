@@ -21,8 +21,8 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [Establish trust between SAP BTP and Identity Authentication service](trust-setup-with-btp.md)
     - [Run the BTP booster to create a subaccount](set-up-sap-task-center-automatically.md)
     - [Set up SAP Task center automatically (via Docker image)](https://github.com/SAP-samples/btp-setup-automator/blob/main/usecases/released/discoverycenter/3774-taskcenter/README.md)
-    - [Configure and access SAP Build Work Zone, standard edition](config-lp-service.md)
-    - [Integrate SAP Task Center with SAP Build Work Zone, standard edition](integrate-sap-task-center-with-sap-lp-service.md)
+    - [Configure and access SAP Build Work Zone, standard edition](config-bwz-se-service.md)
+    - [Integrate SAP Task Center with SAP Build Work Zone, standard edition](integrate-sap-task-center-with-bwz-se-service.md)
     - [Learn how to manage your Workflows on your mobile device with SAP Mobile Start](integrate-task-center-with-mobile-start.md)
 
 - **Outlook**

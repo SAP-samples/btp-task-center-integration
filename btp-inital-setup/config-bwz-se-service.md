@@ -49,4 +49,4 @@ Afterwards you should get access to the SAP Build Work Zone, standard edition **
 
 ## Result
 
-With this we can now finish the last step, where we integrate the SAP Task Center applications, into a new SAP Build Work Zone site.
+With this we can now finish the [last step](integrate-sap-task-center-with-bwz-se-service.md), where we integrate the SAP Task Center applications, into a new SAP Build Work Zone site.

@@ -8,12 +8,12 @@ In this section we need to grant access to an "admin" user, who will maintain th
 The first step is now to modify the **Launchpad_Admin** role collection.
 In your SAP Business Technology Platform (SAP BTP) subaccount navigate to **Security > Role Collections**, and choose the **Launchpad_Admin** entry:
 
-![btp role](images/access_rc_lp_admin.png)
+![btp role](images/access_rc_bwz_admin.png)
 
 Select the role collection, open in the edit mode and select the **User Groups** tab.
 Choose the **+** button and add a group name in the **Name** field (this needs to match the group from SAP Cloud Identity Services - Identity Authentication). In this example the group is called *Admins*. Save your changes.
 
-![define rc group](images/lp_admin_role_collection_group.png)
+![define rc group](images/bwz_admin_role_collection_group.png)
 
 * **Background: With this assignment it's possible to automatically assign users (stored in SAP Cloud Identity Services) to the role collection.**
 In the next step we will finalize the configuration in SAP Cloud Identity Services - Identiy Authentication.

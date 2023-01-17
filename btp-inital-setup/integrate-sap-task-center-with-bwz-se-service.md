@@ -8,11 +8,11 @@ In this section, you finish the integration of SAP Task Center with SAP Build Wo
 2. From the navigation menu, choose **Instances and Subscriptions**.
 3. Choose **Go to Application**.
 
-![opem lp site manager](images/btp_open_lp_site_manager.png)
+![opem lp site manager](images/btp_open_bwz_site_manager.png)
 
 4. From the navigation menu, choose **Provider Manager**.
 
-![provider manager](images/btp_lp_provider_manager.png)
+![provider manager](images/btp_bwz_provider_manager.png)
 
 5. Refresh the **HTML5 Apps** list.
 

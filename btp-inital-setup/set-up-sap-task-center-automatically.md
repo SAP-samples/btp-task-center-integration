@@ -36,9 +36,14 @@ Ensure that the following prerequisites are met:
 
     ![btp booster start](images/btp_booster_start.png)
 
-    In the following steps, the booster validates the prerequisites and informs you if entitlements are missing:
+    The booster validates the prerequisites and informs you if entitlements are missing:
 
     ![check](images/btp_booster_validation_prereq.png)
+
+    In the next step please define which platform IdP is used (in our example we use the default "accounts.sap.com") and which users from the "custom IAS" will be assigned to which role collection(s):
+
+    ![check](images/btp_booster_idp_rc_assignemnet.png)
+    
 
     If all prerequisites are met, no error is shown.
 

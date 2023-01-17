@@ -20,27 +20,27 @@ In this section, you finish the integration of SAP Task Center with SAP Build Wo
 
 The status will be changed to "Updating":
 
-![refresh content](images/btp_bwz_refresh_content_progress.png))
+![refresh content](images/btp_bwz_refresh_content_progress.png)
 
 6. Choose Content Manager, and then choose the HTML 5 Apps tile.
 
-![content manager](images/btp_lp_content_manager.png)
+![content manager](images/btp_bwz_content_manager.png)
 
 ## Add SAP Task Center applications to the SAP Build Work Zone content
 
 7. Select the Task Center applications, and choose **Add to My Content**.
 
-![add to my content](images/btp_lp_add_2_my_content.png)
+![add to my content](images/btp_bwz_add_2_my_content.png)
 
 8. Go back to the **My Content tab**, and verify that the SAP Task Center applications are displayed.
 
-![check my content](images/btp_lp_my_content_check.png)
+![check my content](images/btp_bwz_my_content_check.png)
 
 ## Create group & assign SAP Task Center application
 
 9. Create a new group with a name of your choice, and assign the **SAP Task Center** application.
 
-![assing task center app](images/btp_lp_assign_tc_app.png)
+![assing task center app](images/btp_bwz_assign_tc_app.png)
 
 10. In the Content Manager, assign Task Center to the existing everyone role.
 
@@ -55,7 +55,7 @@ This can be realized by following this:
 
 - Create a **new site** and privide a name for the new site:
 
-![create site](images/btp_lp_create_site.png)
+![create site](images/btp_bwz_create_site.png)
 
 - Open the created site:
 
@@ -63,11 +63,11 @@ This can be realized by following this:
 
 As result you should now see the SAP Build Work Zone site and the integrated SAP Task Center applications:
 
-![tc app on lp](images/btp_lp_tc_on_lp.png)
+![tc app on lp](images/btp_bwz_tc_on_lp.png)
 
 And by selecting the SAP Task center web application you can also get an idea how SAP Task Center looks like:
 
-![tc web app](images/btp_tc_web_app.png)
+![tc web app](images/btp_bwz_web_app.png)
 
 **Congratulations!** With this last step, you finished the initial setup for SAP Task Center.
 

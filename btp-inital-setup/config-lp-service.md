@@ -1,9 +1,9 @@
 ## Introduction
 
-In this section we need to grant access to an "admin" user, who will maintain the SAP Launchpad service site via the [Site Manager](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/3f619a13ca2a4a59a14bec8507c3fb69.html).
+In this section we need to grant access to an "admin" user, who will maintain the SAP Build Work Zone, standard edition service site via the [Site Manager](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/3f619a13ca2a4a59a14bec8507c3fb69.html).
 
 
-## Adjust SAP Launchpad Service Role Collection
+## Adjust SAP Build Work Zone, standard edition Role Collection
 
 The first step is now to modify the **Launchpad_Admin** role collection.
 In your SAP Business Technology Platform (SAP BTP) subaccount navigate to **Security > Role Collections**, and choose the **Launchpad_Admin** entry:
@@ -33,7 +33,7 @@ For more information about how to create a user, see [Create Users](https://help
 
 ## Validate the Identity Authentication Setup
 
-To validate the trust setup, open SAP Launchpad service.
+To validate the trust setup, open SAP Build Work Zone, standard edition.
 1. In the SAP BTP cockpit, navigate to **Services > Instances and Subscriptions**.
 2. To open the application, choose the **Go to Application** icon.
 
@@ -43,10 +43,10 @@ If you now log on with valid Identity Authentication credentials you should chan
 
 ![open site manager](images/login_and_change_pw.png)
 
-Afterwards you should get access to the SAP Launchpad service **Site Manager**:
+Afterwards you should get access to the SAP Build Work Zone, standard edition **Site Manager**:
 
 ![open site manager](images/btp_lp_site_manager.png)
 
 ## Result
 
-With this we can now finish the last step, where we integrate the SAP Task Center applications, into a new Launchpad site.
+With this we can now finish the last step, where we integrate the SAP Task Center applications, into a new SAP Build Work Zone site.

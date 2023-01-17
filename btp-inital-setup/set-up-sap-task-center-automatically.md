@@ -16,14 +16,14 @@ Ensure that the following prerequisites are met:
 - Trust is set up between the target subaccount and the **Identity Authentication service**.
 - To ensure the availability of the services, choose **Entitlements** from the navigation menu and search for:
 
-- **SAP Task Center**
+**SAP Task Center**
 
-    ![task center](images/tc_entitlement.png)
+![task center](images/tc_entitlement.png)
    
 
-- **SAP Build Work Zone, standard edition**
+**SAP Build Work Zone, standard edition**
 
-    ![lp](images/bwz_entitlement.png)
+![lp](images/bwz_entitlement.png)
 
 ## Procedure
 

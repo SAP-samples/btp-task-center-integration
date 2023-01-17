@@ -2,7 +2,7 @@
 
 SAP Task Center requires the following SAP BTP services:
 
-- [SAP Launchpad service](https://help.sap.com/viewer/product/Launchpad_Service/Cloud/en-US)
+- [SAP SAP Build Work Zone, standard edition](https://help.sap.com/docs/WZ_STD)
 - [SAP Cloud Identity Services - Identity Authentication](https://discovery-center.cloud.sap/#/serviceCatalog/44f005fe-ae27-4b70-878e-e2429f88d642)
 - [SAP Cloud Identity Services - Identity Provisioning](https://help.sap.com/viewer/p/IDENTITY_PROVISIONING)
 
@@ -10,12 +10,12 @@ To check whether these services are entitled in the SAP BTP subaccount, see [Man
 
 ## Check the availability of SAP BTP services
 
-1. For SAP BTP services like SAP Task Center and SAP Launchpad service, access the SAP BTP cockpit and choose **Entitlements > Entity Assignments**.
+1. For SAP BTP services like SAP Task Center and SAP Build Work Zone, standard edition service, access the SAP BTP cockpit and choose **Entitlements > Entity Assignments**.
 You must be the account administrator of the global account.
 
 2. Then choose your subaccount and validate the availability of the services:
 - SAP Task Center (free of charge, see the details about service plan)
-- SAP Launchpad service
+- SAP SAP Build Work Zone, standard edition
 
 3. Additionally, check that **SAP Cloud Identity Services - Identity Authentication** and SAP Cloud Identity Services - Identity Provisioning are available.
 4. If a service is missing, add the entitlements manually.
@@ -41,7 +41,7 @@ You must be the account administrator of the global account.
 
 5. **Save** your changes.
 
-**Congratulations!** As a result, you should now see SAP Launchpad service and SAP Task Center in the list of the entity assignments for the specific subaccount in SAP BTP.
+**Congratulations!** As a result, you should now see SAP Build Work Zone, standard edition and SAP Task Center in the list of the entity assignments for the specific subaccount in SAP BTP.
 
 ![check btp entitlements after save](images/btp_services_entitlement_check.png)
 

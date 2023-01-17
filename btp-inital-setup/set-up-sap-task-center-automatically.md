@@ -49,7 +49,7 @@ If all prerequisites are met, no error is shown.
 
 Finally, a popup informs you about the success.
 
-![success](images/btp_booster_start.png)
+![success](images/btp_booster_success.png)
 
 **Congratulations!** With the successful execution of the **SAP Task Center booster** you can move to the next step. You’ll set up SAP Launchpad service to access the SAP Task Center web application!
 

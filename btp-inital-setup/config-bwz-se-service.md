@@ -37,7 +37,7 @@ To validate the trust setup, open SAP Build Work Zone, standard edition.
 1. In the SAP BTP cockpit, navigate to **Services > Instances and Subscriptions**.
 2. To open the application, choose the **Go to Application** icon.
 
-![open site manager](images/btp_open_lp_site_manager.png)
+![open site manager](images/btp_open_bwz_site_manager.png)
 
 If you now log on with valid Identity Authentication credentials you should change the password. 
 

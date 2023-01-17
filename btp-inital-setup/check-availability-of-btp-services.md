@@ -31,9 +31,9 @@ You must be the account administrator of the global account.
 
 ![adding sap task center](images/btp_services_task_center_entitlement.png)
 
-3. Add **SAP Launchpad Service**.
+3. Add **SAP Build Work Zone, standard edition**.
 
-![adding sap launchpad](images/btp_services_launchpad_entitlement.png)
+![adding sap build wz, standard edition](images/btp_services_bwzs_entitlement.png)
 
 4. Add the services (service plans) to your subaccount.
 

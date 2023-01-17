@@ -1,6 +1,6 @@
 ## Introduction
 
-In this section, you finish the integration of SAP Task Center with SAP Launchpad service.
+In this section, you finish the integration of SAP Task Center with SAP Build Work Zone, standard edition.
 
 ## Update content to get SAP Task Center applications
 
@@ -22,7 +22,7 @@ In this section, you finish the integration of SAP Task Center with SAP Launchpa
 
 ![content manager](images/btp_lp_content_manager.png)
 
-## Add SAP Task Center applications to the launchpad content
+## Add SAP Task Center applications to the SAP Build Work Zone content
 
 7. Select the Task Center applications, and choose **Add to My Content**.
 
@@ -44,9 +44,9 @@ In this section, you finish the integration of SAP Task Center with SAP Launchpa
 
 Alternatively, create a new role. For more information, see [Assign Content to a Role](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/baeaf6ee364e48ac95dc09470281f174.html).
 
-## Create a new lauchpad site
+## Create a new SAP Build Work Zone site
 
-To integrate SAP Task Center, you need to [create a Launchpad site](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/5778444e0419462bb4060a66a5c20de0.html).
+To integrate SAP Task Center, you need to [create a SAP Build Work Zone site](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/5778444e0419462bb4060a66a5c20de0.html).
 This can be realized by following this:
 
 - Create a **new site** and privide a name for the new site:
@@ -57,7 +57,7 @@ This can be realized by following this:
 
 ![open site](images/btp_lp_open_site.png)
 
-As result you should now see the SAP BTP launchpad site and the integrated SAP Task Center applications:
+As result you should now see the SAP Build Work Zone site and the integrated SAP Task Center applications:
 
 ![tc app on lp](images/btp_lp_tc_on_lp.png)
 

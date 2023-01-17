@@ -45,7 +45,7 @@ If you now log on with valid Identity Authentication credentials you should chan
 
 Afterwards you should get access to the SAP Build Work Zone, standard edition **Site Manager**:
 
-![open site manager](images/btp_lp_site_manager.png)
+![open site manager](images/btp_bwz_site_manager.png)
 
 ## Result
 

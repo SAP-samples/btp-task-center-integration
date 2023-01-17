@@ -16,7 +16,11 @@ In this section, you finish the integration of SAP Task Center with SAP Build Wo
 
 5. Refresh the **HTML5 Apps** list.
 
-![refresh content](images/btp_lp_refresh_content.png)
+![refresh content](images/btp_bwz_refresh_content.png)
+
+The status will be changed to "Updating":
+
+![refresh content](images/btp_bwz_refresh_content_progress.png))
 
 6. Choose Content Manager, and then choose the HTML 5 Apps tile.
 

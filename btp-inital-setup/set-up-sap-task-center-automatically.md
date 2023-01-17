@@ -21,7 +21,7 @@ Ensure that the following prerequisites are met:
     ![task center](images/tc_entitlement.png)
    
 
-- **SAP Launchpad Service**
+- **SAP Build Work Zone, standard edition**
 
     ![lp](images/bwz_entitlement.png)
 
@@ -51,6 +51,6 @@ Finally, a popup informs you about the success.
 
 ![success](images/btp_booster_success.png)
 
-**Congratulations!** With the successful execution of the **SAP Task Center booster** you can move to the next step. You’ll set up SAP Launchpad service to access the SAP Task Center web application!
+**Congratulations!** With the successful execution of the **SAP Task Center booster** you can move to the next step. You’ll set up SAP Build Work Zone, standard edition to access the SAP Task Center web application!
 
 For more information about the automatic setup of SAP Task Center, see [Automatic Setup](https://help.sap.com/viewer/08cbda59b4954e93abb2ec85f1db399d/Cloud/en-US/3a499676e7ae4282af84092f778e3737.html).

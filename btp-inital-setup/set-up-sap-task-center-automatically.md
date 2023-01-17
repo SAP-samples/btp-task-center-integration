@@ -21,7 +21,7 @@ Ensure that the following prerequisites are met:
    
 
 - **SAP Launchpad Service**
-![lp](images/lp_entitlement.png)
+![lp](images/bwz_entitlement.png)
 
 ## Procedure
 

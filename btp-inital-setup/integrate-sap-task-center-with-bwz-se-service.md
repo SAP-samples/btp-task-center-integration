@@ -59,7 +59,7 @@ This can be realized by following this:
 
 - Open the created site:
 
-![open site](images/btp_lp_open_site.png)
+![open site](images/btp_bwz_open_site.png)
 
 As result you should now see the SAP Build Work Zone site and the integrated SAP Task Center applications:
 

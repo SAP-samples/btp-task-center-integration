@@ -2,7 +2,7 @@
 
 SAP Task Center requires the following SAP BTP services:
 
-- [SAP SAP Build Work Zone, standard edition](https://help.sap.com/docs/WZ_STD)
+- [SAP Build Work Zone, standard edition](https://help.sap.com/docs/WZ_STD)
 - [SAP Cloud Identity Services - Identity Authentication](https://discovery-center.cloud.sap/#/serviceCatalog/44f005fe-ae27-4b70-878e-e2429f88d642)
 - [SAP Cloud Identity Services - Identity Provisioning](https://help.sap.com/viewer/p/IDENTITY_PROVISIONING)
 

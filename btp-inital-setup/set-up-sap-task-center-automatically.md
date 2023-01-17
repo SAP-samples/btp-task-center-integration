@@ -17,11 +17,13 @@ Ensure that the following prerequisites are met:
 - To ensure the availability of the services, choose **Entitlements** from the navigation menu and search for:
 
 - **SAP Task Center**
-![task center](images/tc_entitlement.png)
+
+    ![task center](images/tc_entitlement.png)
    
 
 - **SAP Launchpad Service**
-![lp](images/bwz_entitlement.png)
+
+    ![lp](images/bwz_entitlement.png)
 
 ## Procedure
 

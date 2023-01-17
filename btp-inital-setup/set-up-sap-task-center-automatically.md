@@ -48,7 +48,7 @@ Ensure that the following prerequisites are met:
 
     ![check](images/btp_booster_review.png)
 
-5. The status of the execution will be shown during the execution,
+5. The status of the execution will be shown during the execution.
 
     ![progress](images/btp_booster_progress.png)
 

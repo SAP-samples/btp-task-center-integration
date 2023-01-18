@@ -1,6 +1,6 @@
 ## Learn how to manage your workflows on your mobile device with SAP Mobile Start
 
-SAP Mobile Start is the native mobile entry point to SAP’s Intelligent Enterprise: it is the mobile representation of the SAP Launchpad service (which is a prerequisite), leveraging mobile native capabilities (such as notification, widgets, spotlight search and others). SAP Mobile Start provides an optimized access to all your business applications (native or web) and information on your mobile device, enabling you to take appropriate business critical decisions in any circumstances.
+SAP Mobile Start is the native mobile entry point to SAP’s Intelligent Enterprise: it is the mobile representation of the SAP Build Work Zone, standard edition (which is a prerequisite), leveraging mobile native capabilities (such as notification, widgets, spotlight search and others). SAP Mobile Start provides an optimized access to all your business applications (native or web) and information on your mobile device, enabling you to take appropriate business critical decisions in any circumstances.
 
 Thanks to the integration between SAP Mobile Start and SAP Task Center, you can manage your workflow approvals directly on your mobile.
 

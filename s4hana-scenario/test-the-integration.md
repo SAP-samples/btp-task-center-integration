@@ -4,7 +4,7 @@ Test your integration with the following steps:
 1. Log on to SAP S/4HANA as an end user and use an application of your choice which creates tasks.   
 
 2. Test if the task has arrived in SAP Task Center:  
-    - Logon as the respective manager to SAP Task Center. In the SAP Launchpad service, choose the Task Center tile and search for the respective request. 
+    - Logon as the respective manager to SAP Task Center. In the SAP Build Work Zone, standard edition service, choose the Task Center tile and search for the respective request. 
     - If you can't see the screen, you might have problems with missing permissions or user provisioning.   
 
 3. Check if approval actions arrive back in SAP S/4HANA:

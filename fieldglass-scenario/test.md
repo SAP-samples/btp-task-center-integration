@@ -18,7 +18,7 @@ script. Then, enter an **end date**, which can be +3-6 months from now.
   ![Test Integration 5](images/T5.png)
 7. The job posting is created.  
   ![Test Integration 6](images/T6.png)
-8. Log into **SAP Launchpad Service** with Approver user credentials.  
+8. Log into **SAP Build Work Zone** with Approver user credentials.  
   ![Test Integration 7](images/T7.png)
 9. Open **SAP Task Center**.  
   ![Test Integration 8](images/T8.png)

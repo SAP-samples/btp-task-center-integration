@@ -17,15 +17,15 @@ To delete and repopulate the task cache for a destination, you have to remove th
 2.	Open the destination configuration of the task provier, for which you want to repopulate the task cache and verify that the **tc.enabled** property is enabled.
 
 
-<img src="images/BTP_Cockpit_Destinations.png" alt="drawing" width="800"/>
+<img src="images/BTP_Cockpit_Destinations.png" alt="drawing" width="900" height="350"/>
 
 
 3.	Open the Task Center Administration app [See Working with the Task Center Administration App](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a1598cb4b774536befb701f78b36e48.html?locale=en-US) and verify that the connector to this destination is listed below the destinations.
 
-<img src="images/TC_Admin_App.png" alt="drawing" width="800"/>
+<img src="images/TC_Admin_App.png" alt="drawing" width="700" height="450"/>
 
 
-<img src="images/TC_Admin_Destinations.png" alt="drawing" width="800"/>
+<img src="images/TC_Admin_Destinations.png" alt="drawing" width="700"/>
 
 
 4.	Go back to the destination configuration in your Cloud Foundry subacount and switch to edit mode. Search for **tc.enabled** below **Additional Properties**, and remove the property. Save your changes.
@@ -37,7 +37,7 @@ To delete and repopulate the task cache for a destination, you have to remove th
 
 7.	The destination connector should be visible again in the Task Center Administration app. Make sure that the **INITIAL** job is visible, and the **CONFIG** job is with status **OK** .
 
-<img src="images/TC_Admin_jobs.png" alt="drawing" width="800"/>
+<img src="images/TC_Admin_jobs.png" alt="drawing" width="700"/>
 
 
 ### Results:

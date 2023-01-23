@@ -17,7 +17,7 @@ To delete and repopulate the task cache for a destination, you have to remove th
 2.	Open the destination configuration of the task provier, for which you want to repopulate the task cache and verify that the **tc.enabled** property is enabled.
 
 
-<img src="images/BTP_Cockpit_Destinations.png" alt="drawing" width="900" height="350"/>
+<img src="images/BTP_Cockpit_Destinations.png" alt="drawing" width="830" height="350"/>
 
 
 3.	Open the Task Center Administration app [See Working with the Task Center Administration App](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/3a1598cb4b774536befb701f78b36e48.html?locale=en-US) and verify that the connector to this destination is listed below the destinations.

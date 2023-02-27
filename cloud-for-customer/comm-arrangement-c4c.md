@@ -32,7 +32,7 @@ Note down the **user ID**, the provided **password**, and the **URL** of your SA
 
 6.	Click on **next** and review all the configuration details:
 
-![Communication_Arrangement_Review](images/omm-arrange-review.jpg)
+![Communication_Arrangement_Review](images/comm-arrange-review.jpg)
 
 7.	In the next screen, A success message is shown once the communication arrangement has been created successfully.
 

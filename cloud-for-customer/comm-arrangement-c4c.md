@@ -12,7 +12,7 @@
 
 4.	Under **Communication System**, enter the **System Instance ID** of the communication system with which you want to set up communication arrangements and click **Next**.
 
-![Communication_Arrangement](images/Communication-arrangement.png)
+![Communication_Arrangement](images/admin-create-comm-arrange-select-sid.jpg)
 
 5.	In the next step, select the communication scenarios for which you want to create the communication arrangements. 
 Under **Inbound Communication: Basic Settings:** Check the details on the **Inbound tab** as necessary:
@@ -26,7 +26,7 @@ In the **User ID** field, click **Edit Credentials**.
 
 The user ID of the communication user is created automatically. Provide a **password** and select **SAP Task Center Provider Service**.
 
-![Communication_Arr_Services_Used](images/Comm-scenario-services-used.png)
+![Communication_Arr_Services_Used](images/comm-arrange-sdefine-tech-user-activate-stc-integration.jpg)
 
 Note down the **user ID**, the provided **password**, and the **URL** of your SAP Cloud for Customer tenant . These details are then required while creating primary destination with the technical user.
 

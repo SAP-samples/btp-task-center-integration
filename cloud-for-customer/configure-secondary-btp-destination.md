@@ -10,17 +10,18 @@
 
 3.	Select **Download Trust** to download the primary signing certificate of the subaccount.
 
-![Download-Trust](cloud-for-customer/images/donwload-trust.jpg)
+![Download-Trust](images/donwload-trust.jpg)
 
 4.	Open the downloaded file in a text editor, copy the certificate content (everything between —–BEGIN CERTIFICATE—– and —–END CERTIFICATE—–) to a new file, and save the new file.
 
 5. In SAP Cloud for Customer, navigate to **Administrator > Common Tasks > Configure OAuth 2.0 Identity Provider**.
 
-![Configure-OAuth2](cloud-for-customer/images/oauth2-c4c.jpg)
+![Configure-OAuth2](images/new-oauth-provider.jpg)
 
 6. Select **New OAuth 2.0 Provider**.
 
-7.	Enter a name in the **Issuing Entity Name** field in this format: cfapps.<region_host>/<subaccountID>. 
+7.	Enter a name in the **Issuing Entity Name** field in this format: 
+    **cfapps.<region_host>/<subaccountID>**
   
 8.	Browse and upload the primary signing certificate.
 
@@ -28,4 +29,4 @@
 
 10.	Click **Submit**.
   
-![Issuing Entity](cloud-for-customer/images/Issuing-Entity.png)
+![Issuing Entity](images/oauth-provider-new.jpg)

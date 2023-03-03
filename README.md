@@ -11,12 +11,12 @@ This repository provides an overview of the released and planned SAP Task Center
 
 Here is an overview of the missions, related to SAP Task Center:
 
-- Initial Setup of the SAP Task Center Service on SAP Business Technology Platform (SAP BTP) [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3774/)
-- SAP Task Center Integration with SAP SuccessFactors [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3816/)
+- Initial Setup of the SAP Task Center Service on SAP Business Technology Platform (SAP BTP) [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/missiondetail/3774/3813/)
+- SAP Task Center Integration with SAP SuccessFactors [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/missiondetail/3816/3869/)
 - SAP Task Center Integration with SAP S/4HANA Cloud [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/index.html#/missiondetail/3906)
 - SAP Task Center Integration with SAP S/4HANA [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/index.html#/missiondetail/3910/)
 - SAP Task Center Integration with SAP Fieldglass [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/index.html#/missiondetail/3911/)
-- SAP Task Center Integration with SAP Concur (not supported yet)
+- SAP Task Center Integration with SAP Concur [(link to SAP Discovery Center mission)](https://discovery-center.cloud.sap/missiondetail/3883/3962/)
 - SAP Task Center Integration with SAP Ariba (comming soon)
 - SAP Task Center Integration with SAP Process Automation (comming soon)
 

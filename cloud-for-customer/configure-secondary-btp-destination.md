@@ -20,8 +20,8 @@
 
 6. Select **New OAuth 2.0 Provider**.
 
-7.	Enter a name in the **Issuing Entity Name** field in this format: 
-    **cfapps.<region_host>/<subaccountID>**
+7.	Enter a name in the **Issuing Entity Name** field in this format 
+    **cfapps.<region_host>/<subaccountID>** 
   
 8.	Browse and upload the primary signing certificate.
 
@@ -30,3 +30,5 @@
 10.	Click **Submit**.
   
 ![Issuing Entity](images/oauth-provider-new.jpg)
+
+

@@ -55,11 +55,11 @@ You must obtain the local service provider value and use it in the Audience fiel
 
 1.	Navigate to **Administrator > Common Tasks > Configure Single Sign-On**.
 
-![Config-SSO](/images/config-sso.jpg)
+![Config SSO](images/config-sso.jpg)
 
 2.	Copy the value in the Local Service Provider field.
 
-![Local-SP](/images//copy-local-sp-for-dest.jpg)
+![Local SP](images/copy-local-sp-for-dest.jpg)
 
 Use this value in the **Audience** field along with the **Client Secret** and **Client ID** obtained previously to create a destination to create a secondary destination for the principal propagation. 
 
@@ -69,9 +69,9 @@ Use this value in the **Audience** field along with the **Client Secret** and **
 
 2.	Create a new destination and manually add the properties as described below.
 
-![Sec-Dest-PP](/images/btp-pp-dest-c4c4.jpg)
+![Sec-dest-pp](images/btp-pp-dest-c4c4.jpg)
 
-![Sec-Dest-PP-TC-ENABLED](/images/btp-dest-enabled.jpg)
+![Sec-Dest-pp-tc-enabled](images/btp-dest-enabled.jpg)
 
 **Optional**: Check this [link](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/2cc8cee1c8fc44888eade975fb8b2284.html) to read complete details about each property defined above.
 

@@ -1,4 +1,4 @@
-## Creating the Primary Destination with the Technical User
+## Creating Primary Destination with Technical User
 
 **Prerequisites**
 

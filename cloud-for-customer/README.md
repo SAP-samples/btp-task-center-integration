@@ -11,15 +11,17 @@ This repository contains conten for the cards which are used in the SAP Discover
    - [Check the commercial prerequisite for SAP Task Center](check-commercial-prereq-for-sap-task-center.md)
    - [Learn about SAP Cloud Identity Services and the Global User ID](learn-about-sap-cloud-identity-services.md)
    - [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](sap-task-center-and-sap-cloud-identity-services.md)
-   - [Make sure that SAP Cloud for Customer and SAP Cloud Identity Services are connected](ariba-cloud-identity-integration.md)
+   - [Make sure that SAP Cloud for Customer and SAP Cloud Identity Services are connected](C4C-cloud-identity-integration.md)
    - [Verify and enable the Task Center Integration in C4C](ariba-api.md)
   
 - **Set Up**
 
+    - [Configure SAP Task Center in SAP C4C](Configure-STC-in-SAP-C4C.md)
     - [Create a communication system C4C](comm-system-c4c.md)
     - [Create a communication arrangement in C4C](comm-arrangement-c4c.md)
-    - [Configure destinations for SAP Ariba in SAP BTP Sub Account](configure-btp-destination.md)
-    - [Test the integration from S/4HANA Cloud into SAP Task Center](testintegration.md)
+    - [Configure primary destination for SAP C4C in SAP BTP Sub Account](configure-primary-btp-destination.md)
+    - [Configure secondary destination for SAP C4C in SAP BTP Sub Account](configure-secondary-btp-destination.md)
+    - [Test the integration from SAP C4C into SAP Task Center](testintegration.md)
 
 - **Outlook**
 

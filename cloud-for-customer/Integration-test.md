@@ -7,10 +7,13 @@
 
     * Login with **UserID**.
     * Go to **Business Configuration** → **Implementation Projects**. Select the project **First Implementation** and click on **Edit Project Scope**.
-    * In the guided activity page, click on **Next** three time to reach the step 4 - Questions.
+    * In the guided activity page, click on **Next** twice to reach the step 3 - **Review Questions**.
     * On the left navigation tree for **Scoping Element**, select **Sales** → **New Business** → **Opportunities**.
-    * Select **'In Scope'** for the question **'Do you want to use a multiple step approval process for opportunities...'**.
-    * **Save**.
+    * Select **'In Scope'** for the question **'Do you want to use a multiple step approval process for opportunities...'** and then click on **Next**.
+    
+      ![Review Questions](cloud-for-customer/Complete project setup.png)
+      
+    * Add a **Title** and **Description** (optional) and click on **Finish**.
 
 
 2. **Enable Submit for Approval for Custom Status**

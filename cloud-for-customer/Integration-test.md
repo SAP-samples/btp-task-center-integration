@@ -1,4 +1,3 @@
-# Learn how to manage your workflows on your mobile device with SAP Mobile Start
 
 # Creating Approval Tasks in SAP C4C - Opportunity Approval
 
@@ -32,8 +31,7 @@
     * Screenshot 
 
 
-**Create tasks**
-
+**Create a Task**
     * Login with **purchaser**.
     * From **Sales → Opportunities**, Create a new Opportunity by entering the following details:
     **Name**: Any string starting with **TaskCenter**
@@ -44,7 +42,6 @@
 
 
 **Approving the task**
-
     * Login with **purchasing_manager**
     * Click on the Bell icon on the top right of shell to see all notifications with recently assigned approval task coming on top.
-    * Click on Approve icon to approve the task.
+    * Click on **Approve** icon to approve the task.

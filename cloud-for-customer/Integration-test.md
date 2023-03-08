@@ -11,11 +11,13 @@
     * On the left navigation tree for **Scoping Element**, select **Sales** → **New Business** → **Opportunities**.
     * Select **'In Scope'** for the question **'Do you want to use a multiple step approval process for opportunities...'** and then click on **Next**.
     
-      ![Review-Questions](cloud-for-customer/Complete-project-setup.png)
+      ![Review-Questions](images/Review-Questions.png)
       
     * Add a **Title** and **Description** (optional) and click on **Finish**.
 
-
+      ![Complete- Project- Setup](images/Complete-project-setup.png)
+      
+      
 2. **Enable Submit for Approval for Custom Status**
 
     * Login with **purchasing_manager** or **administrator**.

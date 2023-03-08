@@ -11,7 +11,7 @@
     * On the left navigation tree for **Scoping Element**, select **Sales** → **New Business** → **Opportunities**.
     * Select **'In Scope'** for the question **'Do you want to use a multiple step approval process for opportunities...'** and then click on **Next**.
     
-      ![Review Questions](cloud-for-customer/Complete project setup.png)
+      ![Review-Questions](cloud-for-customer/Complete-project-setup.png)
       
     * Add a **Title** and **Description** (optional) and click on **Finish**.
 

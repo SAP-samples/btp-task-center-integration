@@ -1,4 +1,4 @@
-## Creating the Primary Destination with the Technical User
+## Creating Primary Destination with Technical User
 
 **Prerequisites**
 
@@ -14,7 +14,7 @@
     
 2.	Create a new destination and manually add the properties as described below. 
 
-![Primary-destination](cloud-for-customer/images/Primary-Dest.png)
+![Primary-destination](images/Primary-Dest.png)
 
 
 Optional: Check this [link](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/bb3728b6073c4425b6cadc7b9c7b6b1b.html) to read complete details about each property defined above.

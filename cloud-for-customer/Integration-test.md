@@ -31,7 +31,10 @@
     * Screenshot 
 
 
-**Create a Task**
+**Task Creation and Approval**
+
+1. **Create a Task**
+
     * Login with **purchaser**.
     * From **Sales → Opportunities**, Create a new Opportunity by entering the following details:
     **Name**: Any string starting with **TaskCenter**
@@ -41,7 +44,8 @@
     * The current approver can be confirmed by opening the Opportunity detail screen and navigating to the tab **Approval**.
 
 
-**Approving the task**
+2. **Approving the task**
+
     * Login with **purchasing_manager**
     * Click on the Bell icon on the top right of shell to see all notifications with recently assigned approval task coming on top.
     * Click on **Approve** icon to approve the task.

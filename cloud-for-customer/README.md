@@ -21,7 +21,7 @@ This repository contains conten for the cards which are used in the SAP Discover
     - [Create a communication arrangement in C4C](comm-arrangement-c4c.md)
     - [Configure primary destination for SAP C4C in SAP BTP Sub Account](Configure-primary-btp-destination.md)
     - [Configure secondary destination for SAP C4C in SAP BTP Sub Account](configure-secondary-btp-destination.md)
-    - [Test the integration from SAP C4C into SAP Task Center](testintegration.md)
+    - [Test the integration from SAP C4C into SAP Task Center](Integration-test.md)
 
 - **Outlook**
 

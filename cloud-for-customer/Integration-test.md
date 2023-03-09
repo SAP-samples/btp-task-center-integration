@@ -1,6 +1,9 @@
 
 # Creating Approval Tasks in SAP C4C - Opportunity Approval
 
+Note: **UserID** to be used in the following steps should have necessary roles and authorization related to the Business Object: Opportunity
+
+
 **Pre-requisites**
 
 1. **Scope-in Multi-Step Approval for Opportunities in Business Configuration**
@@ -27,8 +30,15 @@
     ![Activities](images/Activity-Opportunities.png)
     
     * In the displayed factsheet click on link **'Maintain Custom Status'**.
+    
+    ![Custom-status](images/Custom-status.png)
+    
     * Select the document type **OPPT** in the header table **'Available Document Types'**.
+    
+    ![Document-Type](images/oppt.png)
+    
     * For Life Cycle Status entry **'2 - In process'**, select the checkbox **'Submit for Approval'**.
+   
     * **Save**.
 
 

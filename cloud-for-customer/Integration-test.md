@@ -24,7 +24,9 @@ Note: **UserID** to be used in the following steps should have necessary roles a
 2. **Enable Submit for Approval for Custom Status**
 
     * Login with your **UserID**.
+    
     * Go to **Business Configuration** → **Overview**.
+    
     * Search for  Activity **'Opportunities'** and click on it to open it.
     
     ![Activities](images/Activity-Opportunities.png)
@@ -45,7 +47,8 @@ Note: **UserID** to be used in the following steps should have necessary roles a
 3. **Define Approval Process**
 
     * Login with your **UserID**.
-    * From **Administrator** → **Approval Processes**, define an approval Process for Opportunity with either **'Reporting Line Manager'** or **'Direct Approver'** as work distribution. Here as an example, we setup a process where an Opportunity identified restricted to a specific AccountID must be sent to approval to the manager.
+    
+    * From **Administrator** → **Approval Processes**, define an approval Process for Opportunity with either **'Reporting Line Manager'** or **'Direct Approver'** as work distribution. Here as an example, we setup a process where an Opportunity identified restricted to a specific AccountID must be sent for approval to the manager.
     
     ![Approval-process](images/Approval-process.png)
     
@@ -64,8 +67,8 @@ Note: **UserID** to be used in the following steps should have necessary roles a
 
     * Login with your **UserID**
     * From **Sales → Opportunities**, Create a new Opportunity by entering the following details:
-    **Name**: Any string with AccountID **BTP FND**
-    **Account**: Enter **BTP FND**.
+    **Name**: Any string with AccountID **Account Name**
+    **Account**: Enter **Account Name**.
     
       ![Approval-task](images/Task-1.png)
       

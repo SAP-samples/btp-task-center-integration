@@ -10,4 +10,4 @@ As an administrator, you must first configure SAP Task Center using the scoping 
 ![Scoping-Question](images/slect-bpm-review-question-2.jpg)
 
 
-![Accept-BPM-Question](images/accept-bpm-question.jpg)
+![Accept-BPM-Question](images/ScopingTC.jpg)

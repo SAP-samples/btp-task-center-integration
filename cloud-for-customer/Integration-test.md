@@ -87,6 +87,10 @@ Note: **UserID** to be used in the following steps should have necessary roles a
     * Manager logs in with his credentials to SAP Task Center
     * Finds the task and clicks on **Approve** button to approve the task.
     (or) Click on **Open Task** button to open the Task from SAP C4C side.
+    
+    ![Approval-taskstc](images/STCTaskView.png)
+    
+    
     * Click on the Bell icon on the top right of shell to see all notifications with recently assigned approval task coming on top.
     * Click on **Approve** icon to approve the task.
     

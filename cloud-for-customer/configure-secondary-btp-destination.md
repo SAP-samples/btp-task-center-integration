@@ -2,9 +2,9 @@
 
 **Principal Propagation Flow and Set Up**
 
-**Step 1: Configure SAP Business Technology Platform as OAuth Identity Provider in Cloud for Customer**
+**Step 1: Configure SAP Business Technology Platform as OAuth Identity Provider in SAP Cloud for Customer**
 
-1.	In the SAP Business Technology Platform cockpit, choose your **Global Account** and your subaccount name from the **Subaccount** menu in the breadcrumbs.
+1.	In the SAP Business Technology Platform Cockpit, choose your **Global Account** and your subaccount name from the **Subaccount** menu in the breadcrumbs.
 
 2.	Navigate to **Connectivity > Destinations**.
 
@@ -26,9 +26,9 @@
   
 8.	Browse and upload the primary signing certificate.
 
-9.	Enable **Email Address** in addition to **User Account ID** under **Select Name ID Formats**.
+9.	Under **Select Name ID Formats**, enable **Email Address** in addition to **User Account ID** .
 
-10.	Click **Submit**.
+10.	Choose **Submit**.
   
 ![Issuing Entity](images/oauth-provider-new.jpg)
 
@@ -38,9 +38,9 @@
 Register a new OAuth 2.0 client in SAP Cloud for Customer to get the Client ID and Client Secret
 
 1.	Navigate to **Administrator >  OAuth 2.0 Client Registration**.
-2.	Click **New**.
-3.	Enter a **Client Secret** and **Description**.
-4.	Select the OAuth 2.0 configured in the previous step from the **Issuer Name** dropdown.
+2.	Choose **New**.
+3.	Enter the **Client Secret** and **Description**.
+4.	From the **Issuer Name** dropdown, select the OAuth 2.0 configured in the previous step.
 5.	Select **UIWC:CC_HOME** from the scope list. 
 6.	Save your changes.
 
@@ -61,7 +61,7 @@ You must obtain the local service provider value and use it in the Audience fiel
 
 ![Local SP](images/copy-local-sp-for-dest.jpg)
 
-Use this value in the **Audience** field along with the **Client Secret** and **Client ID** obtained previously to create a destination to create a secondary destination for the principal propagation. 
+Use this value in the **Audience** field along with the **Client Secret** and **Client ID**, obtained previously, to create a secondary destination for the principal propagation. 
 
 **Step 4: Create a secondary SAP Cloud for Customer destination for the principal propagation**.
 
@@ -73,7 +73,7 @@ Use this value in the **Audience** field along with the **Client Secret** and **
 
 ![Sec-Dest-pp-tc-enabled](images/btp-dest-enabled.jpg)
 
-**Optional**: Check this [link](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/2cc8cee1c8fc44888eade975fb8b2284.html) to read complete details about each property defined above.
+**Optional**: Check this [link](https://help.sap.com/docs/TASK_CENTER/08cbda59b4954e93abb2ec85f1db399d/2cc8cee1c8fc44888eade975fb8b2284.html) to read the complete details about each property defined above.
 
 3.	Select the **Use default JDK truststore** checkbox.
 

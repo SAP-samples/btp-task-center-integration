@@ -1,8 +1,8 @@
-## Creating Primary Destination with Technical User
+## Creating primary destination with technical user
 
 **Prerequisites**
 
-1. You have completed the steps mentioned in the previous card and have a User ID and Password.
+1. You have completed the steps mentioned in the previous card and have a user ID and password.
 
 2. You have your SAP Cloud for Customer tenant URL.
 

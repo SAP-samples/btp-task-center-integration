@@ -1,10 +1,9 @@
 ## Introduction
 
-SAP Cloud Identity Services are one prerequisite for SAP Task Center and the integration with the task providers.
+SAP Cloud Identity Services are needed for integrating task providers with SAP Task Center.
 
-The SAP Cloud Identity Services comprise of the Identity Authentication service (IAS) and Identity Provisioning service (IPS).
-Make sure that they are connected to your task provider (they have already been connected to SAP Task Center, as explained in one of the previous cards, [Establish a Central Inbox with SAP Task Center
-](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3774/)).
+The SAP Cloud Identity Services comprise of the Identity Authentication (IAS) and Identity Provisioning (IPS).
+Make sure that they are connected to your task provider (As explained in the next card: [Make sure that SAP Task Center and SAP Cloud Identity Services are connected](https://flpnwc-ad17b8dc3.dispatcher.hana.ondemand.com/sites/admincenter#projectboard-Display&/masterboard/4157/card/9301673).
 
 Have a look at  
 

@@ -61,31 +61,20 @@ Note: **UserID** to be used in the following steps should have necessary roles a
     
 
 
-**Task Creation and Approval**
+**Task Approval Process**
 
-1. **Create a Task**
-
-    * Login to **SAP Cloud for Customer** with your **UserID**
-    * From **Sales → Opportunities**, create a new Opportunity by entering the following details:
-         •	**Name**: Any string with AccountID **Account Name**
-         •	**Account**: Enter **Account Name**.
-    
-      ![Approval-task](images/Task-1.png)
-      
-      
-      ![Approval-task](images/Task-2.png)
-      
-      
-    * When you choose **Save**, a new approval task will be created for the reporting line manager of the user creating the task. 
+1. **Prerequisiste: Approval tasks need to be available in SAP Cloud for Customer system**
    
-    * The current approver can be confirmed by opening the Opportunity detail screen and navigating to the tab **Approval**.
+   The current approver can be confirmed by opening the Opportunity detail screen and navigating to the tab **Approval**.
 
       
       
 2. **Approving the task**
 
     * Manager logs in with his credentials to SAP Task Center
-    * The managaer finds the task and chooses **Approve** to approve the task, or chooses **Open Task** to open the task in SAP Cloud for Customer.
+    * Choose the respective task in SAP Task Center, select **Open Task** to open the task in SAP Cloud for Customer.
+
+   Example:
     
     ![Approval-taskstc](images/STCTaskView.png)
     
@@ -93,7 +82,8 @@ Note: **UserID** to be used in the following steps should have necessary roles a
     * Choose the Bell icon on the top right of shell to see all notifications for recently assigned approval tasks.
     * Choose **Approve** to approve the task.
     
-    
+   Example:
+   
     ![Task-inbox](images/Task-inbox.png)
     
     
